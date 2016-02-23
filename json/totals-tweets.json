@@ -1,0 +1,118 @@
+{
+    "healthcare": {
+        "children": [
+            {
+                "name": "bernie",
+                "size": 23
+            },
+            {
+                "name": "trump",
+                "size": 0
+            },
+            {
+                "name": "hillary",
+                "size": 0
+            },
+            {
+                "name": "rubio",
+                "size": 0
+            },
+            {
+                "name": "carson",
+                "size": 0
+            },
+            {
+                "name": "kasich",
+                "size": 0
+            }
+        ],
+        "size": 799
+    },
+    "economy": {
+        "children": [
+            {
+                "name": "bernie",
+                "size": 47
+            },
+            {
+                "name": "trump",
+                "size": 16
+            },
+            {
+                "name": "hillary",
+                "size": 0
+            },
+            {
+                "name": "rubio",
+                "size": 0
+            },
+            {
+                "name": "carson",
+                "size": 0
+            },
+            {
+                "name": "kasich",
+                "size": 0
+            }
+        ],
+        "size": 875
+    },
+    "immigration": {
+        "children": [
+            {
+                "name": "bernie",
+                "size": 36
+            },
+            {
+                "name": "trump",
+                "size": 0
+            },
+            {
+                "name": "hillary",
+                "size": 0
+            },
+            {
+                "name": "rubio",
+                "size": 0
+            },
+            {
+                "name": "carson",
+                "size": 0
+            },
+            {
+                "name": "kasich",
+                "size": 0
+            }
+        ],
+        "size": 1949
+    },
+    "tuition": {
+        "children": [
+            {
+                "name": "bernie",
+                "size": 4
+            },
+            {
+                "name": "trump",
+                "size": 0
+            },
+            {
+                "name": "hillary",
+                "size": 0
+            },
+            {
+                "name": "rubio",
+                "size": 0
+            },
+            {
+                "name": "carson",
+                "size": 0
+            },
+            {
+                "name": "kasich",
+                "size": 0
+            }
+        ],
+        "size": 785
+    }
+}
