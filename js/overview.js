@@ -1,7 +1,7 @@
 //https://bl.ocks.org/mbostock/7607535
 function drawOverview() {
-    var margin = 20,
-    diameter = 960;
+    var margin = 0,
+    diameter = 500;
 
     var color = d3.scale.linear()
     .domain([0, 5])
@@ -13,9 +13,9 @@ function drawOverview() {
     .size([diameter - margin, diameter - margin])
     .value(function(d) { return d.size; });
 
-    var svg = d3.select("body").append("svg")
-    .attr("width", diameter)
-    .attr("height", diameter)
+    var svg = d3.select("#vis")
+    .attr("width", window.innerWidth)
+    .attr("height", window.innerHeight)
     .append("g")
     .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
@@ -44,7 +44,6 @@ function drawOverview() {
         var node = svg.selectAll("circle,text");
 
         d3.select("body")
-        .style("background", color(0))
         .on("click", function() { zoom(root); });
 
         zoomTo([root.x, root.y, root.r * 2 + margin]);
