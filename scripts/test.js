@@ -1,8 +1,6 @@
 import utils from './utils'
 import { readFile } from 'fs'
 
-console.log(utils.filterByHashtag)
-
 const filePath = './json/twitter-data-merged/twitter-data-merged-sample-pretty.json'
 readFile(filePath, 'utf8', (err, result) => {
   result = JSON.parse(result)
