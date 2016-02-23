@@ -3,17 +3,22 @@ import json, os
 candidates = ['bernie', 'trump', 'hillary', 'rubio', 'carson', 'kasich']
 issues = ['tuition', 'immigration', 'economy', 'healthcare']
 
-tweet_totals_dict = dict()
+tweet_totals_dict = { 'name': 'all', 'size': 0, 'children': []}
 
 for issue in issues:
-    tweet_totals_dict[issue] = {}
-    tweet_totals_dict[issue]['size'] = 0
-    tweet_totals_dict[issue]['children'] = []
+    issue_obj = {'name': issue, 'size': 0, 'children': []}
     for candidate in candidates:
-        candidate_obj = {}
-        candidate_obj['name'] = candidate
-        candidate_obj['size'] = 0
-        tweet_totals_dict[issue]['children'].append(candidate_obj)
+        candidate_obj = {'name': candidate, 'size': 0}
+        issue_obj['children'].append(candidate_obj)
+    issue_obj['children'].append({ 'name': 'unknown', 'size': 0 })
+    tweet_totals_dict['children'].append(issue_obj)
+
+unknown_issue_obj = {'name': 'unknown', 'size': 0, 'children': []}
+for candidate in candidates:
+    candidate_obj = {'name': candidate, 'size': 0}
+    unknown_issue_obj['children'].append(candidate_obj)
+unknown_issue_obj['children'].append({ 'name': 'unknown', 'size': 0 })
+tweet_totals_dict['children'].append(unknown_issue_obj)
 
 count = 0
 for count in range(1000):
@@ -33,17 +38,30 @@ for count in range(1000):
                 data.append(tweet)
     for t in range(len(data)):
         tweet = data[t]
+        tweet_totals_dict['size'] += 1
         text = tweet['text'].lower()
+        iindex = -1
+        cindex = -1
         for i in issues:
             try:
                 if text.index(i) >= 0:
-                    tweet_totals_dict[i]['size'] += 1
-                    for c in candidates:
-                        if text.index(c) >= 0:
-                            index = next(index for (index, d) in enumerate(tweet_totals_dict[i]['children']) if d['name'] == c)
-                            tweet_totals_dict[i]['children'][index]['size'] += 1
+                    iindex = next(index for (index, d) in enumerate(tweet_totals_dict['children']) if d['name'] == i)
+                    tweet_totals_dict['children'][iindex]['size'] += 1
             except ValueError:
                 continue
+        if iindex == -1:
+            iindex = next(index for (index, d) in enumerate(tweet_totals_dict['children']) if d['name'] == 'unknown')
+            tweet_totals_dict['children'][iindex]['size'] += 1
+        for c in candidates:
+            try:
+                if text.index(c) >= 0:
+                    cindex = next(index for (index, d) in enumerate(tweet_totals_dict['children'][iindex]['children']) if d['name'] == c)
+                    tweet_totals_dict['children'][iindex]['children'][cindex]['size'] += 1
+            except ValueError:
+                continue
+        if cindex == -1:
+            cindex = next(index for (index, d) in enumerate(tweet_totals_dict['children'][iindex]['children']) if d['name'] == 'unknown')
+            tweet_totals_dict['children'][iindex]['children'][cindex]['size'] += 1
 
 with open('json/totals-tweets.json', 'w') as jsonfile:
     json.dump(tweet_totals_dict, jsonfile)
