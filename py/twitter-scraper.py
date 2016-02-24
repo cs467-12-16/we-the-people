@@ -8,18 +8,18 @@ consumer_secret = ""
 access_token = ""
 access_token_secret = ""
 
-def main():
-    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-    auth.set_access_token(access_token, access_token_secret)
+logging.basicConfig(filename='queries.log', level=logging.INFO)
 
-    api = tweepy.API(auth)
-    logging.basicConfig(filename='queries2.log', level=logging.INFO)
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+auth.set_access_token(access_token, access_token_secret)
 
+api = tweepy.API(auth)
+
+def fetch_tweets(query, last_id):
     count = 0
-    last_id = 699374318225113088
     while count < 1000:
         try:
-            tweets = api.search(q='hillary OR clinton OR donald OR trump OR marco OR rubio OR bernie OR sanders', rpp=100, since_id=last_id)
+            tweets = api.search(q=query, rpp=100, since_id=last_id)
             tweetJson = dict()
             if len(tweets) > 0:
                 with open('testC2/c' + str(count) + '.json', 'w') as jsonfile:
@@ -34,4 +34,8 @@ def main():
             time.sleep(15*60)
 
 if __name__ == '__main__':
-    main()
+    last_id = 699374318225113088
+    fetch_tweets('hillary OR clinton OR donald OR trump OR marco OR rubio OR bernie OR sanders', last_id)
+    fetch_tweets('#hillary OR #feelthebern OR #trump2016 OR tuition OR healthcare OR economy OR immigration', last_id)
+    fetch_tweets('#DemDebate OR #GOPDebate OR #DemTownHall OR #GOPTownHall', last_id)
+    fetch_tweets('hillary clinton OR donald trump OR marco rubio OR bernie sanders', last_id)
