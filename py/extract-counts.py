@@ -1,6 +1,6 @@
 import json, os
 
-candidates = ['bernie', 'trump', 'hillary', 'rubio', 'carson', 'kasich']
+candidates = ['bernie sanders', 'donald trump', 'hillary clinton', 'marco rubio', 'ben carson', 'john kasich']
 issues = ['tuition', 'immigration', 'economy', 'healthcare']
 
 tweet_totals_dict = { 'name': 'all', 'size': 0, 'children': []}
@@ -23,8 +23,8 @@ tweet_totals_dict['children'].append(unknown_issue_obj)
 count = 0
 for count in range(1000):
     index = str(count)
-    t_file_name = 'json/twitter-data/t' + index + '.json'
-    d_file_name = 'json/twitter-data/d' + index + '.json'
+    t_file_name = '../json/twitter-data/t' + index + '.json'
+    d_file_name = '../json/twitter-data/d' + index + '.json'
     data = []
     with open(t_file_name) as t_file:
         if os.path.getsize(t_file_name) > 0:

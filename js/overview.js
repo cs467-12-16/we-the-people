@@ -3,10 +3,19 @@ function drawOverview() {
     var margin = 0,
     diameter = 500;
 
-    var color = d3.scale.linear()
-    .domain([0, 5])
-    .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
-    .interpolate(d3.interpolateHcl);
+    function color(depth, d) {
+        if (depth === 0) {
+            return d3.rgb(255, 255, 255);
+        } else if (depth === 1) {
+            return d3.rgb('#66b266');
+        } else {
+            if (d.name === 'hillary' || d.name === 'bernie') {
+                return d3.rgb("#1e7f91");
+            } else {
+                return d3.rgb("#ff7f7f");
+            }
+        }
+    }
 
     var pack = d3.layout.pack()
     .padding(2)
@@ -14,8 +23,8 @@ function drawOverview() {
     .value(function(d) { return d.size; });
 
     var svg = d3.select("#vis")
-    .attr("width", window.innerWidth)
-    .attr("height", window.innerHeight)
+    .attr("width", diameter)
+    .attr("height", diameter)
     .append("g")
     .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
@@ -30,7 +39,7 @@ function drawOverview() {
         .data(nodes)
         .enter().append("circle")
         .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
-        .style("fill", function(d) { return d.children ? color(d.depth) : null; })
+        .style("fill", function(d) { return color(d.depth, d); })
         .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
 
         var text = svg.selectAll("text")
