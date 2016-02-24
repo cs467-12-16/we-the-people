@@ -1,0 +1,2288 @@
+
+[
+    {
+        "shares": {
+            "count": 1121
+        },
+        "created_time": "2016-02-24T01:39:00+0000",
+        "likes": {
+            "paging": {
+                "next": "https://graph.facebook.com/v2.5/124955570892789_988280761226928/likes?limit=1&summary=false&access_token=544110215749421|4fe93ef751c5456da593827a522455d0&after=MTA0OTkyNDg0MTc0OTMwNw%3D%3D",
+                "cursors": {
+                    "before": "MTA0OTkyNDg0MTc0OTMwNw==",
+                    "after": "MTA0OTkyNDg0MTc0OTMwNw=="
+                }
+            },
+            "data": [
+                {
+                    "id": "1049924841749307"
+                }
+            ]
+        },
+        "message": "I voted against the war in Iraq, and knew it was the right vote then, and most people recognize it was the right vote today. Experience is important, but so is judgement.",
+        "type": "photo",
+        "link": "https://www.facebook.com/berniesanders/photos/a.324119347643076.89553.124955570892789/988280761226928/?type=3",
+        "comments": {
+            "paging": {
+                "cursors": {
+                    "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZPVGc0TmpVNU1EZ3hNVGc1TURrMk9qRTBOVFl5TnpjNU5UST0=",
+                    "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZPVGc0TnpFNE1UQXhNVGd6TVRrME9qRTBOVFl5T0RVMU5qWT0="
+                }
+            },
+            "data": [
+                {
+                    "from": {
+                        "name": "Scott Pinske",
+                        "id": "566604293499530"
+                    },
+                    "message": "Trump \"The vicious snake\"\n\nhttps://www.bing.com/videos/search?q=video+the+vicious+snake&view=detail&mid=394F5B18A8260C4F127A394F5B18A8260C4F127A&FORM=VRRTAP",
+                    "id": "988280761226928_988659081189096",
+                    "created_time": "2016-02-24T01:39:12+0000"
+                },
+                {
+                    "from": {
+                        "name": "Matt Saraceno",
+                        "id": "10153998038099540"
+                    },
+                    "message": "Hillary Clinton still using the \"evolve\" crutch as a rationale for having bad judgment, botching tons of progressive votes before flip flopping (Iraq, tpp, doma, nafta, wall street, keystone pipeline, patriot act, citizens united, Libya, banking). Unacceptable! We expect good judgment from the start, the new high bar set by Bernie Sanders, who doesn't need to \"evolve\" over and over and over. \n\nHillary fully supported Bill, crushing black communities with: crack cocaine sentencing disparity law, welfare reform, and nafta... \n\nBernie Sanders fights for minorities. \n\nThen:\n\nBernie marched on Washington with MLK Jr. in 1963 and was at the \"I have a dream\" speech. He fought for desegregated housing in Chicago in the 60's and he was arrested for protesting against segregation. He campaigned and endorsed rev. Jesse Jackson in 84' and 88'\n\nHillary Clinton supported republican Barry Goldwater in the 1964 presidential election; Goldwater voted against the Civil Rights Act of 1964 (supporting segregation). In the 80's Hillary was a lawyer for Walmart from 86-92', working to DISENFRANCHISE the poor via walmart's anti-union / low-wage policy, protecting the Walton family wealth. Walmart then supported the Clinton's for Bill's 92' campaign.\n\nNow:\n\nBernie: conduct automatic federal investigations for anyone who dies in police custody (for Sandra Bland et al.). Hillary has nothing here.\n\nBernie: allow states to legalize marijuana and remove marijuana as a federally classified drug to help those affected most (minorities). Hillary wants to put marijuana on a lower drug enforcement classification but doesn\u2019t want it legalized. So minorities would still disproportionately go to jail and tax payers would still pay for a broke justice system. And needed funding wouldn't go to help schools and local gov. programs from taxing legal marijuana sales.\n\nBernie: provide \"postal-banking\" so basic banking services can be accessed by ALL communities, especially those underserved, minority communities where, instead of banks, people often must cash checks at pay day lenders for 50-200% interest because there are no bank branches. Postal banking is something many advanced countries (Japan, Germany, Korea, NZ...) already offer in addition to commercial banking. Hillary wants..... well, I'm not sure how she plans on helping minority communities??\n\nBernie: all public colleges and universities to be tuition-free by paying for it with a tax on wall street speculation. Hillary does not want tuition-free higher ed. but wants \"debt free tuition\" where broke families and teens still need to pay. = barrier to entrance\n\nBernie: universal healthcare for ALL, as a right, not a privilege. Hillary wants to strengthen Obamacare, which serves some.\n\nBernie: raise the minimum wage to $15 an hour and the top 1-2% will pay for it. Hillary wants to raise it to $12 an hour. $12 an hour is not even a living wage for a single person and doesn't account for inflation. How is $12 an hour for a single parent??",
+                    "id": "988280761226928_988659111189093",
+                    "created_time": "2016-02-24T01:39:17+0000"
+                },
+                {
+                    "from": {
+                        "name": "Noman Ahmed Khan",
+                        "id": "1096029203750899"
+                    },
+                    "message": "Follow me and get your picture cartoonize. :)\nOnly first 30 followers for today.\nDon't forget to send me your picture in message. Please i request you to only send me face picture (Unedited) only.\nThank You.\n#DoingItForFree #HurryUp",
+                    "id": "988280761226928_988659247855746",
+                    "created_time": "2016-02-24T01:39:28+0000"
+                },
+                {
+                    "from": {
+                        "name": "Laura Allen",
+                        "id": "1066975086699426"
+                    },
+                    "message": "Judgement matters! #Bernie2016",
+                    "id": "988280761226928_988659354522402",
+                    "created_time": "2016-02-24T01:39:47+0000"
+                },
+                {
+                    "from": {
+                        "name": "Bobby Cordell",
+                        "id": "10156521285165484"
+                    },
+                    "message": "The fact that bernie is just a good human being is his best trait.",
+                    "id": "988280761226928_988659364522401",
+                    "created_time": "2016-02-24T01:39:48+0000"
+                },
+                {
+                    "from": {
+                        "name": "Alex Escobedo",
+                        "id": "1035087059885252"
+                    },
+                    "message": "Damn Bernie",
+                    "id": "988280761226928_988659367855734",
+                    "created_time": "2016-02-24T01:39:48+0000"
+                },
+                {
+                    "from": {
+                        "name": "Bryan Colwell",
+                        "id": "545707268925285"
+                    },
+                    "message": "I think we'd all like to have that $1 trillion back. Not to mention the 1000s of American lives that were lost. Judgment is damn important.",
+                    "id": "988280761226928_988659447855726",
+                    "created_time": "2016-02-24T01:40:04+0000"
+                },
+                {
+                    "from": {
+                        "name": "Brian Enoch",
+                        "id": "10153781984051418"
+                    },
+                    "message": "Yep",
+                    "id": "988280761226928_988659477855723",
+                    "created_time": "2016-02-24T01:40:06+0000"
+                },
+                {
+                    "from": {
+                        "name": "Vikram Chaudhuri",
+                        "id": "969883233107915"
+                    },
+                    "message": "Gotta bring up Shilary's brilliant Libya plan",
+                    "id": "988280761226928_988659711189033",
+                    "created_time": "2016-02-24T01:40:36+0000"
+                },
+                {
+                    "from": {
+                        "name": "Chris Orlet",
+                        "id": "10207979590988211"
+                    },
+                    "message": "http://money.cnn.com/2006/07/12/news/newsmakers/healthcare_clinton/",
+                    "id": "988280761226928_988659727855698",
+                    "created_time": "2016-02-24T01:40:38+0000"
+                },
+                {
+                    "from": {
+                        "name": "Whitney Lynn Eskew",
+                        "id": "10208067922430367"
+                    },
+                    "message": "Please don't forget it folks.",
+                    "id": "988280761226928_988659794522358",
+                    "created_time": "2016-02-24T01:40:45+0000"
+                },
+                {
+                    "from": {
+                        "name": "Adam Holt",
+                        "id": "322228154526338"
+                    },
+                    "message": "The US and the establishment spend way too much money on the war machine. It's time to elect a real leader who can keep us out of wars!!\n#feelthebern",
+                    "id": "988280761226928_988659824522355",
+                    "created_time": "2016-02-24T01:40:46+0000"
+                },
+                {
+                    "from": {
+                        "name": "Logan Rector",
+                        "id": "10204495925873069"
+                    },
+                    "message": "Bernie you are killin it in the town hall! Chris Cuomo is a joke.",
+                    "id": "988280761226928_988659874522350",
+                    "created_time": "2016-02-24T01:40:55+0000"
+                },
+                {
+                    "from": {
+                        "name": "\u0410\u043a\u043c\u0430\u043b\u044c \u0418\u0431\u0440\u0430\u0433\u0438\u043c\u043e\u0432",
+                        "id": "1082605978457548"
+                    },
+                    "message": "You are great politic Mr.Sanders! #feelthebern2016",
+                    "id": "988280761226928_988659884522349",
+                    "created_time": "2016-02-24T01:40:59+0000"
+                },
+                {
+                    "from": {
+                        "name": "Mary Kat Hall",
+                        "id": "10154049776159708"
+                    },
+                    "message": "#BernieSanders2016",
+                    "id": "988280761226928_988659911189013",
+                    "created_time": "2016-02-24T01:41:00+0000"
+                },
+                {
+                    "from": {
+                        "name": "Daniel Shreddin",
+                        "id": "1144933468851322"
+                    },
+                    "message": "Bernie is god",
+                    "id": "988280761226928_988659991189005",
+                    "created_time": "2016-02-24T01:41:15+0000"
+                },
+                {
+                    "from": {
+                        "name": "Irene Rushing",
+                        "id": "969834766386727"
+                    },
+                    "message": "Hillary was a republican before she met Bill and she is still a republican",
+                    "id": "988280761226928_988660037855667",
+                    "created_time": "2016-02-24T01:41:20+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jack Ran Shannon",
+                        "id": "10207747613582066"
+                    },
+                    "message": "Remember. Bank bailouts and trillion dollar quagmire wars are ok. But access to affordable healthcare and education are socialism.",
+                    "id": "988280761226928_988660081188996",
+                    "created_time": "2016-02-24T01:41:25+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jonsa Greyer",
+                        "id": "1080671258619627"
+                    },
+                    "message": "Don't minimize your own experience...a quarter century in Congress is nothing to sneeze at, Bernie Sanders!",
+                    "id": "988280761226928_988660087855662",
+                    "created_time": "2016-02-24T01:41:27+0000"
+                },
+                {
+                    "from": {
+                        "name": "Daniel Shreddin",
+                        "id": "1144933468851322"
+                    },
+                    "message": "Shots fired \ud83d\udd2b\ud83d\udd2b\ud83d\udd2b\ud83d\udd25\ud83d\udd2b\ud83d\udd2b\ud83d\udd25\ud83d\udd25",
+                    "id": "988280761226928_988660117855659",
+                    "created_time": "2016-02-24T01:41:30+0000"
+                },
+                {
+                    "from": {
+                        "name": "Joseph Simon",
+                        "id": "10154015001704312"
+                    },
+                    "message": "I can't help but to think many of my friends would still be around today if we never went into Iraq. My life would be different for sure. So can we please stop just getting into wars because someone looked at us wrong?",
+                    "id": "988280761226928_988660164522321",
+                    "created_time": "2016-02-24T01:41:39+0000"
+                },
+                {
+                    "from": {
+                        "name": "James T Frazier",
+                        "id": "1681120968809411"
+                    },
+                    "message": "Hillary never apologized for voting to invade Iraq.",
+                    "id": "988280761226928_988660201188984",
+                    "created_time": "2016-02-24T01:41:43+0000"
+                },
+                {
+                    "from": {
+                        "name": "Ian Carty",
+                        "id": "1558732351108779"
+                    },
+                    "message": "it was based on bad and wrong information",
+                    "id": "988280761226928_988660261188978",
+                    "created_time": "2016-02-24T01:41:57+0000"
+                },
+                {
+                    "from": {
+                        "name": "Ernesto Castrejon",
+                        "id": "1011139548945296"
+                    },
+                    "message": "berine is going for it, what a great man. i hope he really wins, this man goes for the important stiff that will actually bennefit relationships with other countries and the people themselves.",
+                    "id": "988280761226928_988660307855640",
+                    "created_time": "2016-02-24T01:42:04+0000"
+                },
+                {
+                    "from": {
+                        "name": "Shannon McDonough",
+                        "id": "10208813732686037"
+                    },
+                    "message": "Power at its best is love implementing the demands of justice, and justice at its best is power correcting everything that stands against love. \n\u2014 Martin Luther King Jr.\n#bernieforpeace",
+                    "id": "988280761226928_988660341188970",
+                    "created_time": "2016-02-24T01:42:10+0000"
+                },
+                {
+                    "from": {
+                        "name": "Billy Cook",
+                        "id": "1334918313200909"
+                    },
+                    "message": "Your foreign policy record is pretty spot on, U.S. Senator Bernie Sanders!  From international trade (TPP), to foreign intervention, your track record is impeccable!\n\nLet's not forget that Hillary Clinton was appointed to Secretary of State. It's not like she was elected to that position. \n\nFeel the Bern! End the occupations!",
+                    "id": "988280761226928_988660384522299",
+                    "created_time": "2016-02-24T01:42:13+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jonathan DeSira",
+                        "id": "10207138439231965"
+                    },
+                    "message": "So my dad said Bernie plans are not doable. I asked why aren't they. He responded they just aren't. I am tired of people's willingness to be ignorant.",
+                    "id": "988280761226928_988660404522297",
+                    "created_time": "2016-02-24T01:42:15+0000"
+                },
+                {
+                    "from": {
+                        "name": "Tom Randy",
+                        "id": "995238323897205"
+                    },
+                    "message": "Wake up. #ElectHim",
+                    "id": "988280761226928_988660441188960",
+                    "created_time": "2016-02-24T01:42:25+0000"
+                },
+                {
+                    "from": {
+                        "name": "Richard Scharfenberg",
+                        "id": "10100755507943218"
+                    },
+                    "message": "Hillary votes for a war where we leave behind $Trillions$ of weapons in the Middle East... and she wants to take guns away from us to 'keep us safe'. #Hypocrite #Heel4Hillary #StandUpForYourRightsBeforeTheyAreAllGone Wrong on Iraq, Wrong on NSA,Wrong for America http://www.ibtimes.com/clinton-foundation-donors-got-weapons-deals-hillary-clintons-state-department-1934187",
+                    "id": "988280761226928_988660487855622",
+                    "created_time": "2016-02-24T01:42:36+0000"
+                },
+                {
+                    "from": {
+                        "name": "Deaf People for Bernie Sanders",
+                        "id": "1451987118461189"
+                    },
+                    "message": "One of Bernie Sanders' Deaf voters is at the Democratic Town Hall!\n\nUnfortunately there's no interpreter or any kind accessibility such as live captioning! The Deaf voter requested ASL interpreter ahead time and CNN failed to accommodate.\n\nShame on CNN for not helping the Deaf voter.\n\nhttps://www.facebook.com/deafpeopleforberniesanders/photos/a.1452014425125125.1073741828.1451987118461189/1565396067120293/?type=3&theater",
+                    "id": "988280761226928_988660507855620",
+                    "created_time": "2016-02-24T01:42:44+0000"
+                },
+                {
+                    "from": {
+                        "name": "Dakota Denver Dexter",
+                        "id": "10207812547248586"
+                    },
+                    "message": "But he also voted for the Afghanistan war (the longest in our history) and voted to fund the Iraq War every single time. Call it supporting the troops, but it's supporting the war he brags he didn't initially vote for.",
+                    "id": "988280761226928_988660514522286",
+                    "created_time": "2016-02-24T01:42:45+0000"
+                },
+                {
+                    "from": {
+                        "name": "Nate Mulder",
+                        "id": "358448864325804"
+                    },
+                    "message": "Can't wait to caucus for Bernie next week in Denver! Lots of support here from what I can see!",
+                    "id": "988280761226928_988660594522278",
+                    "created_time": "2016-02-24T01:43:01+0000"
+                },
+                {
+                    "from": {
+                        "name": "John O'Brien",
+                        "id": "10206713581463484"
+                    },
+                    "message": "\"MISSION ACCOMPLISHED?\"",
+                    "id": "988280761226928_988660637855607",
+                    "created_time": "2016-02-24T01:43:06+0000"
+                },
+                {
+                    "from": {
+                        "name": "Judith Balzer",
+                        "id": "10153963167397171"
+                    },
+                    "message": "I do not vote based solely on past votes, unless I know the complete make up of the vote. I do vote for a candidate who demonstrates ability to reason, be flexible based on fact, and who is willing to change in the face of truth or evidence .",
+                    "id": "988280761226928_988660837855587",
+                    "created_time": "2016-02-24T01:43:15+0000"
+                },
+                {
+                    "from": {
+                        "name": "Michael Demaglie",
+                        "id": "1659490817636289"
+                    },
+                    "message": "Wasn't Chump for the Iraq war in 2002?",
+                    "id": "988280761226928_988660851188919",
+                    "created_time": "2016-02-24T01:43:16+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jocelyn Sophia",
+                        "id": "10208604666535803"
+                    },
+                    "message": "Please Senator Sanders, pledge to work to end US military aid to all foreign countries, including Israel.  God is Merciful.",
+                    "id": "988280761226928_988660911188913",
+                    "created_time": "2016-02-24T01:43:28+0000"
+                },
+                {
+                    "from": {
+                        "name": "Alicea Bahl Acevedo",
+                        "id": "1015702238476422"
+                    },
+                    "message": "BERN!!!!!!!!",
+                    "id": "988280761226928_988660914522246",
+                    "created_time": "2016-02-24T01:43:28+0000"
+                },
+                {
+                    "from": {
+                        "name": "James Baysinger",
+                        "id": "10208567614976834"
+                    },
+                    "message": "We don't need warmongering, corporate-owned stooges in the White House. #BernieOrBust",
+                    "id": "988280761226928_988661194522218",
+                    "created_time": "2016-02-24T01:43:59+0000"
+                },
+                {
+                    "from": {
+                        "name": "Luis Cacho",
+                        "id": "10206888991195853"
+                    },
+                    "message": "PLEASE READ, WATCH, AND SHARE!!!!\n\nI MADE A MISTAKE NOT BEING VOLUNTEER FOR BERNIE HERE IN NEVADA DURING THE CAUSCUS! \n\nWe have alot of youth and numbers but their inexperience was very noticeable and hurt here in Nevada. Thankful for their time and efforts but it was not enough!  We were out numbered 2 to 1 and it was a bullying tactic that helped her win. Nevada should of been a Bernie state!\n\nKey points of discussion:\n\n1. Democratic Socialism - Lots of misguided arguments. Know what Bernie means by it.\n2. Explanation of tax breaks, loop holes, and subsides.\n3. Explaining that \"free\" mean properly managing taxes for funding of these pograms.\n4. Make sure to express that Bernie DOES support planed parent hood.\n5. Once again explain we are funded by us the people for the people and we have no Super PACs.\n\nPlease become a part of this process in all of your states! Sacrifice a shift at work, an hour at any event, ETC. I know is easier said than done but trust me we BERNIE SANDERS SUPPORTERS need to do more than just donate to get a change!\n\n#FeelTheBern #USnotME #CaucuForBernie #SaveTheMiddleClass #PeopleForBernie\n\nhttps://youtu.be/Bv-8xtgpjV8",
+                    "id": "988280761226928_988661297855541",
+                    "created_time": "2016-02-24T01:44:04+0000"
+                },
+                {
+                    "from": {
+                        "name": "Shahid Liaquat",
+                        "id": "1039027099494682"
+                    },
+                    "message": "judgment matters...",
+                    "id": "988280761226928_988661424522195",
+                    "created_time": "2016-02-24T01:44:18+0000"
+                },
+                {
+                    "from": {
+                        "name": "Sean Michael Weems",
+                        "id": "10100487864787192"
+                    },
+                    "message": "Yessss!!!",
+                    "id": "988280761226928_988661514522186",
+                    "created_time": "2016-02-24T01:44:26+0000"
+                },
+                {
+                    "from": {
+                        "name": "Mahammad Noor Abdal",
+                        "id": "863704753741826"
+                    },
+                    "message": "Bernie sanders is the best we all support him and wish him more success.",
+                    "id": "988280761226928_988661531188851",
+                    "created_time": "2016-02-24T01:44:30+0000"
+                },
+                {
+                    "from": {
+                        "name": "Lori Ciasullo Cossette",
+                        "id": "1218729751476719"
+                    },
+                    "message": "Bernie, thank you.",
+                    "id": "988280761226928_988661641188840",
+                    "created_time": "2016-02-24T01:44:42+0000"
+                },
+                {
+                    "from": {
+                        "name": "Ann Kline Laws",
+                        "id": "956371787779017"
+                    },
+                    "message": "President Sanders!!",
+                    "id": "988280761226928_988661891188815",
+                    "created_time": "2016-02-24T01:45:02+0000"
+                },
+                {
+                    "from": {
+                        "name": "Catherine Green",
+                        "id": "581258808693158"
+                    },
+                    "message": "So is the Constitution",
+                    "id": "988280761226928_988661994522138",
+                    "created_time": "2016-02-24T01:45:19+0000"
+                },
+                {
+                    "from": {
+                        "name": "Janice A Dahl",
+                        "id": "10153800749565027"
+                    },
+                    "message": "I love Bernie because he cares about US. No one can tell me different. People, don't give up. He has not given up on US.",
+                    "id": "988280761226928_988662101188794",
+                    "created_time": "2016-02-24T01:45:36+0000"
+                },
+                {
+                    "from": {
+                        "name": "Ken Farrin",
+                        "id": "10153921908933764"
+                    },
+                    "message": "Go Bernie !",
+                    "id": "988280761226928_988662164522121",
+                    "created_time": "2016-02-24T01:45:44+0000"
+                },
+                {
+                    "from": {
+                        "name": "Marcie Wahrer",
+                        "id": "10153724691827745"
+                    },
+                    "message": "I wonder if Hillary's vote for the Iraq war has anything to do with the numerous campaign contributions she receives from oil companies? No more blood for oil!! #feelthebern",
+                    "id": "988280761226928_988662221188782",
+                    "created_time": "2016-02-24T01:46:00+0000"
+                },
+                {
+                    "from": {
+                        "name": "Rachael Hoskins",
+                        "id": "1307150449301524"
+                    },
+                    "message": "I just watched a news clip from ABC showing Bernie Sanders speaking. When he mentioned Hillary, people started to boo. He stopped it, and said \"nope, nope, nope\". He's a respectful man and I appreciate him taking the high road. Then I watched Trump mention \"making you want to punch him in the face\", and everyone cheered.",
+                    "id": "988280761226928_988662237855447",
+                    "created_time": "2016-02-24T01:46:07+0000"
+                },
+                {
+                    "from": {
+                        "name": "Bob Daniel",
+                        "id": "1137133306305498"
+                    },
+                    "message": "Most of those that chanted \"Support the War\" are still angry.  They have become Tea Party/Patriots and are still trying to destroy America.",
+                    "id": "988280761226928_988662241188780",
+                    "created_time": "2016-02-24T01:46:07+0000"
+                },
+                {
+                    "from": {
+                        "name": "Ridwana Ekram",
+                        "id": "10154343954049239"
+                    },
+                    "message": "\u201cHopefully, one day, we\u2019ll muster the courage to join together in a revolutionary movement with people of all colors who believe that basic human rights and economic, racial, and gender justice are not unreasonable, pie-in-the-sky goals. After decades of getting played, the sleeping giant just might wake up, stretch its limbs, and tell both parties: Game over. Move aside. It\u2019s time to reshuffle this deck.\u201d #feelthebern\n\nWell the time has come.  A superhardworking, super passionate man almost 3/4 of a century old is fighting hard, selflessly, relentlessly to pursue a better future for not just us, but our future children and grandchildren. If it were any other ordinary politician (or businessman), after over have half a century of hard-served public service, they'd most probably be off relaxing on an island sipping Mai Tai's instead of campaigning so hard with NOTHING to benefit from it directly in their lifetime. Bernie Sanders is a statistical anomaly, or miracle as the superstitious would put it. Let's not ignore him, let's not take him for granted and watch him disappear cuz we may never get this chance again to improve our lives so drastically for future generations to come. Let us help him win this common sense fight for basic human rights of free health and education for the common people. #delayedgratification \n\nI already attended and graduated from the top university in Canada and have ZERO student loans. I already reaped the benefits of dual citizenship in a \"socialist\" country. You and I may be enjoying our lives currently living in this oligarchy, but have you no responsibility for your children's future and the future of your grandchildren? Vote for Bernie instead of behaving like extremely irresponsible, greedy adults only interested in instant gratification, destroying the future of our kids and the planet! #NotMeUs \n\nYou know that RICH uncle you have always dreamed of? Instead of just giving us handouts, we will earn what we deserve! Economists project income and jobs would soar under Sanders. Median income would soar by more than $22,000. Nearly 26 million jobs would be created. The unemployment rate would fall to 3.8%. This enhanced government spending would increase demand on businesses, who would then hire more workers to meet their needs. The increase in employment will prompt people to buy more, leading other businesses to hire. #socialdemocracy \n\nAs for human rights, just listen to him at the MSNBC Townhall, speaking out passionately against Racism, Sexism, Islamophobia, Xenophobia, and Bigotry! He's the first white candidate to publicly speak out against how disgracefully people have been treating our President Obama just because of the color of his skin and his dad was an immigrant from Kenya, comparing to his own white skin immunity from racism, even though his dad was an immigrant from Poland. #equality\n\n\u201cHillary, during the time Sanders was marching with the Civil Rights Movement, she was working for a Republican campaign.  To me, she\u2019s just a Republican trying to play a Democrat just so she has a chance at winning, that\u2019s all she wants. I don\u2019t need her to condescend to me and tell me that just because I\u2019m a woman, I have to vote for her because she\u2019s also a woman, and that\u2019s what she wants.\u201d #humanrights\n\nBernie's straightforward rhetoric, solid track record, campaign website and some more legitimate, factual research converted my husband to a Berner last week right in front of my eyes! His campaign is working overtime influencing the entire nation, one hardworking American at a time. Collectively we will change the course of this election! #metamorphosis \n\nOk Jane, I too love this man. How crazy is it this man actually encompasses all of my moral values and just plain common sense that I've had for decades? It's such a sigh of relief that I'm not alone in my views, and watching the entire nation supporting him just strengthens my belief in humanity and #humanism\n\nThank you for all the hard work, never get discouraged and always remember to look at the big picture! Please believe that all those hours we have put in phone banking, campaigning, fundraising, donating, etc WILL make a difference! Just take care of your health and stress level as well so you can enjoy those glorious days ahead of us. And boy, after feeling like you've lost everything, the moment things start to turn right side up we will be so ecstatic and feel like it's not even real, THAT moment will be so much more meaningful and will not ever be taken for granted after a fight so arduous and exasperating! #Berners \n\nLet's get out there and VOTE for our next POTUS! #pleasevote #bernie2016 #SenSanders",
+                    "id": "988280761226928_988662254522112",
+                    "created_time": "2016-02-24T01:46:09+0000"
+                },
+                {
+                    "from": {
+                        "name": "Brett Schneider",
+                        "id": "10206620218517423"
+                    },
+                    "message": "There are only about 540 billionaires in the US. You plan to make them pay for all your plans?  Ridiculous.",
+                    "id": "988280761226928_988662557855415",
+                    "created_time": "2016-02-24T01:46:35+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jeffrey Clough",
+                        "id": "10208536275101777"
+                    },
+                    "message": "a very, very smart man.",
+                    "id": "988280761226928_988662704522067",
+                    "created_time": "2016-02-24T01:47:00+0000"
+                },
+                {
+                    "from": {
+                        "name": "Sam Stokes Cerkvenik",
+                        "id": "10208617637298044"
+                    },
+                    "message": "Kim Stokes",
+                    "id": "988280761226928_988662721188732",
+                    "created_time": "2016-02-24T01:47:02+0000"
+                },
+                {
+                    "from": {
+                        "name": "Joslyn Armstrong",
+                        "id": "10207775906130010"
+                    },
+                    "message": "Bernie has life experiences that l believe will make him an excellent choice for president.",
+                    "id": "988280761226928_988662971188707",
+                    "created_time": "2016-02-24T01:47:19+0000"
+                },
+                {
+                    "from": {
+                        "name": "Davie Louzolo",
+                        "id": "517095991805400"
+                    },
+                    "message": "The former leader of one of the most notorious SOCIALIST nations on Earth, Fidel Castro, is praising Bernie Sanders for bringing SOCIALISM to America.\n\nQuite an endorsement!\n\nFidel Castro was a ruthless dictator who slaughtered men, women and children, a pedophile, admitted to participating in bestiality, torture and brought his once-wealthy nation to ruin because of the implementation of SOCIALIST programs.\n\nSo you kids keep cheering for the 'old white establishment' candidate of yours. Then you too can wait in lines, with your hand held out for water and toilet paper, just like they do in most SOCIALIST countries!\n\nhttps://youtu.be/vNBYTHJ5x9U",
+                    "id": "988280761226928_988663474521990",
+                    "created_time": "2016-02-24T01:48:02+0000"
+                },
+                {
+                    "from": {
+                        "name": "Andrew Kuebbing",
+                        "id": "10156566017660553"
+                    },
+                    "message": "Come on Bernie, there's about 1000000 things you could put in this... just make a meme for us!",
+                    "id": "988280761226928_988663841188620",
+                    "created_time": "2016-02-24T01:48:33+0000"
+                },
+                {
+                    "from": {
+                        "name": "Dick Buick",
+                        "id": "10208690129271115"
+                    },
+                    "message": "Judgement is far superior to experience.",
+                    "id": "988280761226928_988664354521902",
+                    "created_time": "2016-02-24T01:49:33+0000"
+                },
+                {
+                    "from": {
+                        "name": "Wesley David Dupee",
+                        "id": "10207146097869029"
+                    },
+                    "message": "#Bernie2016",
+                    "id": "988280761226928_988664601188544",
+                    "created_time": "2016-02-24T01:50:12+0000"
+                },
+                {
+                    "from": {
+                        "name": "The Law of Attraction/ The Secret",
+                        "id": "181909472007593"
+                    },
+                    "message": "There is always, always, always something to be thankful for.",
+                    "id": "988280761226928_988665154521822",
+                    "created_time": "2016-02-24T01:51:13+0000"
+                },
+                {
+                    "from": {
+                        "name": "Nguyen Nguyen",
+                        "id": "977021149018943"
+                    },
+                    "message": "Yesssssssss!!!!",
+                    "id": "988280761226928_988665264521811",
+                    "created_time": "2016-02-24T01:51:21+0000"
+                },
+                {
+                    "from": {
+                        "name": "Martin Genev",
+                        "id": "10154055184225962"
+                    },
+                    "message": "Lol gotta love PC passive aggressive Bernie posts that won't mention Clinton. Comes off weak",
+                    "id": "988280761226928_988665287855142",
+                    "created_time": "2016-02-24T01:51:22+0000"
+                },
+                {
+                    "from": {
+                        "name": "Mike Eubank",
+                        "id": "146329109087148"
+                    },
+                    "message": "Bernie, I've voted Republican all my life. The more I listen to your stance on the positions, the more I know you are an honest man. I wish you the best.",
+                    "id": "988280761226928_988665394521798",
+                    "created_time": "2016-02-24T01:51:31+0000"
+                },
+                {
+                    "from": {
+                        "name": "Carlos Yarber II",
+                        "id": "1148264768518714"
+                    },
+                    "message": "Shame you didn't do the same regarding Yugoslavia and Gaza...",
+                    "id": "988280761226928_988665427855128",
+                    "created_time": "2016-02-24T01:51:34+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jackie Conway",
+                        "id": "10205874218715698"
+                    },
+                    "message": "Love Bernie sanders. .great town hall tonight",
+                    "id": "988280761226928_988665724521765",
+                    "created_time": "2016-02-24T01:51:58+0000"
+                },
+                {
+                    "from": {
+                        "name": "Kali Faye Shelton",
+                        "id": "10201233947767778"
+                    },
+                    "message": "The Iraq war is the reason my sister has PTSD, shrapnel in her brain still, and severe drug problems that she's been in treatment for, for four years. What she saw out there changed her forever. Haven't seen her in 5 years. Because she's stuck in Hawaii. With irreparable damage.",
+                    "id": "988280761226928_988665744521763",
+                    "created_time": "2016-02-24T01:52:02+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jason Morini",
+                        "id": "10208407291641583"
+                    },
+                    "message": "YEP.",
+                    "id": "988280761226928_988665854521752",
+                    "created_time": "2016-02-24T01:52:12+0000"
+                },
+                {
+                    "from": {
+                        "name": "Teresa Bruggeman Kahle",
+                        "id": "10201468846718445"
+                    },
+                    "message": "Although I totally agree, I cannot share this graphic because I am more anti-GOP than anti-Hillary",
+                    "id": "988280761226928_988665967855074",
+                    "created_time": "2016-02-24T01:52:21+0000"
+                },
+                {
+                    "from": {
+                        "name": "Ted Kachnowski",
+                        "id": "993826657330896"
+                    },
+                    "message": "Hillary\u2019s Campaign Has The Nerve To Call Black Voters *Her Firewall* Really?  ...  https://www.youtube.com/watch?v=5uWu0nSsg7w&feature=youtu.be",
+                    "id": "988280761226928_988666064521731",
+                    "created_time": "2016-02-24T01:52:34+0000"
+                },
+                {
+                    "from": {
+                        "name": "Matthew Robertson",
+                        "id": "232294633777922"
+                    },
+                    "message": "Bernie, you inspire me to be a part of the political process. You have my vote and I hope that it carries over into future elections. We are shifting hard left and this is our chance to make a world better!",
+                    "id": "988280761226928_988666104521727",
+                    "created_time": "2016-02-24T01:52:42+0000"
+                },
+                {
+                    "from": {
+                        "name": "April Mason",
+                        "id": "10153866642916745"
+                    },
+                    "message": "Bernie for America!",
+                    "id": "988280761226928_988666787854992",
+                    "created_time": "2016-02-24T01:53:34+0000"
+                },
+                {
+                    "from": {
+                        "name": "Subrata Mukherjee",
+                        "id": "10153895331480505"
+                    },
+                    "message": "Senator Sanders...Hinduism is another key religion in the world... since we are peaceful...you should not forget us...",
+                    "id": "988280761226928_988667021188302",
+                    "created_time": "2016-02-24T01:53:51+0000"
+                },
+                {
+                    "from": {
+                        "name": "Gabriel Fortes",
+                        "id": "1035267389869836"
+                    },
+                    "message": "UP Bernie Sanders",
+                    "id": "988280761226928_988667197854951",
+                    "created_time": "2016-02-24T01:54:02+0000"
+                },
+                {
+                    "from": {
+                        "name": "Kelsey Friberg",
+                        "id": "1337118596313520"
+                    },
+                    "message": "Ben Stowers",
+                    "id": "988280761226928_988667457854925",
+                    "created_time": "2016-02-24T01:54:22+0000"
+                },
+                {
+                    "from": {
+                        "name": "Mahonri Smith",
+                        "id": "10207269970320077"
+                    },
+                    "message": "Nobody cares Bernie",
+                    "id": "988280761226928_988667521188252",
+                    "created_time": "2016-02-24T01:54:26+0000"
+                },
+                {
+                    "from": {
+                        "name": "Joe McGinn",
+                        "id": "10206714261069829"
+                    },
+                    "message": "You guys are so anal about a war 13 years ago wow",
+                    "id": "988280761226928_988667547854916",
+                    "created_time": "2016-02-24T01:54:30+0000"
+                },
+                {
+                    "from": {
+                        "name": "Scott H Bornstein",
+                        "id": "947943271979766"
+                    },
+                    "message": "Today you\u2019re here on Facebook, using social media, as you do most days.  Your generation knows these venues as a part of your regular day, and normal routine.  You\u2019re intelligent, and the future holds no limits to where you can go, or what you can do.  You\u2019ve educated yourself, and grown to be a supporter of Bernie Sanders in his candidacy for President.  Bravo!  \n\nSome reading this will spend many hours clicking a keyboard to voice their support for the Senator.  Some might talk to their friends or family, co-workers or even fraternity or sorority families about the positive future his plan provides, and what it means to so many people.  From the homeless and poor to the average American family, you\u2019ve discovered an individual whose career and mission have been, and are, to improve the lives we, and future generations, will live.  You\u2019ve selected your candidate, and you believe in him.  \n\nIT\u2019S NOT ENOUGH.  \n\nNone of these things have the same meaning as actually casting a vote.  Here we are, just a few events into the primary season, and Bernie has done okay, but with you getting out and voting, he\u2019ll do even better, and bring the beginnings of a promising future to our nation.  It won\u2019t happen automatically, and won\u2019t be instant; but without your efforts and your actual vote, it won\u2019t happen at all.  You\u2019ve taken the first steps.  Please, don\u2019t stop now.  Register if you haven\u2019t, vote by mail if need be, and get to the polls or caucuses.  Yes, it\u2019s going to take a little effort, and a small portion of a single day, but that\u2019s a minuscule price to pay to brighten your future, and the futures of those who will follow you, as well as those of us who have preceded you, and served this country to be sure you would have this opportunity.  \n\nThank you for reading, and please vote.                                           SHB",
+                    "id": "988280761226928_988668054521532",
+                    "created_time": "2016-02-24T01:55:28+0000"
+                },
+                {
+                    "from": {
+                        "name": "Angel Gomez",
+                        "id": "1058936427503027"
+                    },
+                    "message": "Doing great answering those questions tonight Bernie.",
+                    "id": "988280761226928_988668087854862",
+                    "created_time": "2016-02-24T01:55:32+0000"
+                },
+                {
+                    "from": {
+                        "name": "Sue Bielenberg",
+                        "id": "10153344097855785"
+                    },
+                    "message": "Who says Bernie lacks experience?  He probably has more than Hillary.",
+                    "id": "988280761226928_988668161188188",
+                    "created_time": "2016-02-24T01:55:42+0000"
+                },
+                {
+                    "from": {
+                        "name": "Ramon John Sison",
+                        "id": "10205859715554459"
+                    },
+                    "message": "And you voted against the Brady Act five times.\nAnd you voted to dump nuclear toxic waste in Latino areas of Nevada.",
+                    "id": "988280761226928_988668394521498",
+                    "created_time": "2016-02-24T01:56:19+0000"
+                },
+                {
+                    "from": {
+                        "name": "Angel Gomez",
+                        "id": "1058936427503027"
+                    },
+                    "message": "Heres the video to go with it. #Bernie2016 ! https://youtu.be/9p35NmUnMsY",
+                    "id": "988280761226928_988668797854791",
+                    "created_time": "2016-02-24T01:57:01+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jim Veltman",
+                        "id": "1088805644484342"
+                    },
+                    "message": "Hillary voted the available intelligence and Bernie simply vote no on principle.  Foreign policy is not based on simple principles without knowledge.  I have written this and fully expect it to be deleted.",
+                    "id": "988280761226928_988668814521456",
+                    "created_time": "2016-02-24T01:57:06+0000"
+                },
+                {
+                    "from": {
+                        "name": "Michal Gendron Ricca",
+                        "id": "10153944551693688"
+                    },
+                    "message": "\"We make it easier for people to get involved in politics, not harder.\" -Bernie",
+                    "id": "988280761226928_988668817854789",
+                    "created_time": "2016-02-24T01:57:07+0000"
+                },
+                {
+                    "from": {
+                        "name": "James Roach",
+                        "id": "10103088129765160"
+                    },
+                    "message": "There's so much more foreign policy that she sucks at, don't spend too much time on this. She is not the all-seeing foreign policy expert the media insists she is.",
+                    "id": "988280761226928_988669141188090",
+                    "created_time": "2016-02-24T01:58:13+0000"
+                },
+                {
+                    "from": {
+                        "name": "Soufiane VA",
+                        "id": "10153377856121406"
+                    },
+                    "message": "The more I listen to this man, the more I like him! Definitely he is the BEST option we have.",
+                    "id": "988280761226928_988669181188086",
+                    "created_time": "2016-02-24T01:58:21+0000"
+                },
+                {
+                    "from": {
+                        "name": "Kenn Harnaart",
+                        "id": "1518759025092039"
+                    },
+                    "message": "Guess u voted the wrong way.  We had that war anyway.",
+                    "id": "988280761226928_988669211188083",
+                    "created_time": "2016-02-24T01:58:26+0000"
+                },
+                {
+                    "from": {
+                        "name": "Christopher Denny",
+                        "id": "10156552832130481"
+                    },
+                    "message": "Artists & Cultural Leaders for Bernie Sanders: https://berniesanders.com/artists/",
+                    "id": "988280761226928_988669284521409",
+                    "created_time": "2016-02-24T01:58:34+0000"
+                },
+                {
+                    "from": {
+                        "name": "Robin Lee Walper",
+                        "id": "1565604413758927"
+                    },
+                    "message": "You described my spiritual beliefs- and likely so many, perfectly.  What we do or don't do affects so much and so many around us that we cannot even wrap our minds around it- we cannot understand it.  So, in my life integrity, coming from love, honesty, compassion- and in the knowing and life that all lives matter is and should be all lives' foundation.  #BERNIESANDERSorBUST . . .  your wording was so much better then mine, and I am forever grateful for your words tonight.  Blessings to all life.  #ElectBernieSanders",
+                    "id": "988280761226928_988669377854733",
+                    "created_time": "2016-02-24T01:58:57+0000"
+                },
+                {
+                    "from": {
+                        "name": "Steve O'Neil",
+                        "id": "1700590003558491"
+                    },
+                    "message": "Hillary Clinton never met a war she didn't like.",
+                    "id": "988280761226928_988669481188056",
+                    "created_time": "2016-02-24T01:59:17+0000"
+                },
+                {
+                    "from": {
+                        "name": "D'Ann Kross",
+                        "id": "1227030600658615"
+                    },
+                    "message": "Interesting Fact: In 1994, the Republicans pushed a 10 Point \"Contract with America.\" This effort was so successful in concept that it won them back control of the Senate for the 1st time in 40 years. However, it got shot down by the Democrats and Clinton administration. The concept of a \"Contract with America\" could still bring about real change - the kind of change the Sanders campaign stands on. Or perhaps, Americans really needs a \"Contract with Congress\" that stipulates term limits and lobbying restrictions. It's time for a commitment on paper that Americans can read and enforce. After all, what other career do you know of that pays a lifetime salary plus untold bonuses without an employment contract?",
+                    "id": "988280761226928_988669501188054",
+                    "created_time": "2016-02-24T01:59:23+0000"
+                },
+                {
+                    "from": {
+                        "name": "Kenn Harnaart",
+                        "id": "1518759025092039"
+                    },
+                    "message": "And we're going to keep doing it by putting Trump in the white house. #2016TrumpforPresident.",
+                    "id": "988280761226928_988669581188046",
+                    "created_time": "2016-02-24T01:59:35+0000"
+                },
+                {
+                    "from": {
+                        "name": "Wanda Strickland Seabolt",
+                        "id": "10206894199046960"
+                    },
+                    "message": "Bernie Sanders is a fruitcake! Seriously, i just heard him say that his spirituality is \" regenerating off each other\"  Wow! Good luck with that!",
+                    "id": "988280761226928_988669674521370",
+                    "created_time": "2016-02-24T01:59:48+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jerry Dowling",
+                        "id": "943584739023938"
+                    },
+                    "message": "wish youd said what your experience growing up jewish was like why didnt you become a rabbi",
+                    "id": "988280761226928_988669741188030",
+                    "created_time": "2016-02-24T01:59:58+0000"
+                },
+                {
+                    "from": {
+                        "name": "Cody Petry",
+                        "id": "10154116018772439"
+                    },
+                    "message": "I wish you guys set a goal for tonight!  I normally donate $10 but tonight I donated the $27.  I donated that because you specifically asked for it.  Go defeat the power!  You're worth the investment.",
+                    "id": "988280761226928_988670031188001",
+                    "created_time": "2016-02-24T02:00:40+0000"
+                },
+                {
+                    "from": {
+                        "name": "Emil L\u00f6vqvist",
+                        "id": "10153277531447541"
+                    },
+                    "message": "Bernie good as always but little bit disappointed that he didn't get the incarnation question more enlighten, especially the comparison marijuana vs. Wall Street crooks. Think it would have been important in SC.",
+                    "id": "988280761226928_988670181187986",
+                    "created_time": "2016-02-24T02:01:06+0000"
+                },
+                {
+                    "from": {
+                        "name": "Homayoun Khodadadi",
+                        "id": "1110118949028999"
+                    },
+                    "message": "Yeah, where is this \"experience\" that Clinton brags about all the time? And if it's not used for useful results, what good is it anyway?",
+                    "id": "988280761226928_988670504521287",
+                    "created_time": "2016-02-24T02:02:04+0000"
+                },
+                {
+                    "from": {
+                        "name": "David Ritchey",
+                        "id": "10207334742301145"
+                    },
+                    "message": "I just drove 2 hours to early vote for you here in Texas.",
+                    "id": "988280761226928_988670627854608",
+                    "created_time": "2016-02-24T02:02:29+0000"
+                },
+                {
+                    "from": {
+                        "name": "Steven Witz",
+                        "id": "969865546422614"
+                    },
+                    "message": "#Feelthebern",
+                    "id": "988280761226928_988670707854600",
+                    "created_time": "2016-02-24T02:02:43+0000"
+                },
+                {
+                    "from": {
+                        "name": "Lesley Jacobson",
+                        "id": "1263817093632251"
+                    },
+                    "message": "YES.",
+                    "id": "988280761226928_988670714521266",
+                    "created_time": "2016-02-24T02:02:44+0000"
+                },
+                {
+                    "from": {
+                        "name": "Margaret Reynold Hornick",
+                        "id": "228338820845104"
+                    },
+                    "message": "There was so much destruction from that war and so many beautiful people maimed or killed and countries destroyed and the formation of isis which all of us must fear......we feel smug here but the day will come when we are not......it only makes sense and our protectors did not even know anything about San Bernardino....What else do they not know.....I pray ........for Peace in the world.  We are all sisters and brothers.....",
+                    "id": "988280761226928_988671324521205",
+                    "created_time": "2016-02-24T02:03:19+0000"
+                },
+                {
+                    "from": {
+                        "name": "Heather Elliott",
+                        "id": "10208802151321453"
+                    },
+                    "message": "I'm really confused what the \"experience\" that Hillary Clinton has that Bernie Sanders doesn't?",
+                    "id": "988280761226928_988671347854536",
+                    "created_time": "2016-02-24T02:03:24+0000"
+                },
+                {
+                    "from": {
+                        "name": "Nichelle Longaker",
+                        "id": "1314587561901566"
+                    },
+                    "message": "You are the NRA's candidate in Vermont who voted against an assault weapons ban FIVE times to pay them back for their support of your1990 campaign. That's just plain old disgusting. Then you ran a shadow campaign to primary The Great Barack Obama in 2012. How dare you criticize Secretary Clinton. Go raise some money for the DNC, you hack, so you can actually do some good for the down ballot races before Hillary blows you out of this race you should have never got into. Democrats are sick of your carpet bagging, agitating campaign.",
+                    "id": "988280761226928_988671381187866",
+                    "created_time": "2016-02-24T02:03:35+0000"
+                },
+                {
+                    "from": {
+                        "name": "Melissa Vogt",
+                        "id": "1710132275914267"
+                    },
+                    "message": "I think Bernie did an outstanding job in the Dem Town Hall this evening. Good platform for SC. Good message to SC voters, citizens, and the rest of the country. Well done, Senator! (I will honestly admit I could not watch Hillary tonight. I just could not stand it this one night since she is all over my TV with commercials in MO.)",
+                    "id": "988280761226928_988671437854527",
+                    "created_time": "2016-02-24T02:03:47+0000"
+                },
+                {
+                    "from": {
+                        "name": "Adel Bedoui",
+                        "id": "518804478321510"
+                    },
+                    "message": "Breaking news: Hillary is lying about lies",
+                    "id": "988280761226928_988671461187858",
+                    "created_time": "2016-02-24T02:03:51+0000"
+                },
+                {
+                    "from": {
+                        "name": "Steven Witz",
+                        "id": "969865546422614"
+                    },
+                    "message": "did ya think it was going to be easy? Did ya think she was just going to give up and quit? Were fighting wall street for heavens sake. If you gave up already then you were not ready for the battle. BELIEVE and then work to make your belief happen. Donate, phone bank for 100 calls a day or more. #FEELTHEBERN",
+                    "id": "988280761226928_988671597854511",
+                    "created_time": "2016-02-24T02:04:20+0000"
+                },
+                {
+                    "from": {
+                        "name": "Matt Allen",
+                        "id": "1072732369445149"
+                    },
+                    "message": "Hillary just denied ONCE AGAIN to release her transcripts until even replubicans do it. What a joke.",
+                    "id": "988280761226928_988671641187840",
+                    "created_time": "2016-02-24T02:04:30+0000"
+                },
+                {
+                    "from": {
+                        "name": "Bart Wayne",
+                        "id": "10208527966024188"
+                    },
+                    "message": "http://m.huffpost.com/us/entry/dear-bernie-red-flags-frequent_b_9289954.html?",
+                    "id": "988280761226928_988671667854504",
+                    "created_time": "2016-02-24T02:04:35+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jose Pereira",
+                        "id": "10153652501978183"
+                    },
+                    "message": "There is no grey in politics, it is either-or-either.\n\nHealth care could be two markets interdependent. One of a national standard regulated procedures affordable to the mass and state subsidy regardless of their proffessional talents. After all medicine is a science not a theology and can be standarize and regulated. Out of the reach of the insurance market.\n\nAnd the second one a parallel private unregulated bussines base subsidy on the researchs and talent earned by their professionals, for the few, the willing and the benefit of new standard procedures. Open to the insurance market to compete for costumers.\n\nNope, is either or either all doctors are higly expensive regardless of their true talent. And all patients need to paid or be state sudsidise regardless of their will.\n\nNot that complicated if they will.",
+                    "id": "988280761226928_988671874521150",
+                    "created_time": "2016-02-24T02:05:17+0000"
+                },
+                {
+                    "from": {
+                        "name": "J Rhone Torgerson",
+                        "id": "10207060213276122"
+                    },
+                    "message": "http://youtu.be/ZnmLfWnE3fM",
+                    "id": "988280761226928_988671884521149",
+                    "created_time": "2016-02-24T02:05:18+0000"
+                },
+                {
+                    "from": {
+                        "name": "Gene Adams",
+                        "id": "1675686822694112"
+                    },
+                    "message": "yawn, bernies vote or lack of did nothing as he was/is a senator from a small state.  Basically everyone ignores him like they are gonna do again after hillary beats him.",
+                    "id": "988280761226928_988672004521137",
+                    "created_time": "2016-02-24T02:05:39+0000"
+                },
+                {
+                    "from": {
+                        "name": "Ruth Marquardt",
+                        "id": "1008221769215148"
+                    },
+                    "message": "Every time I hear Senator Sanders say this all I can say is YES YES YES! ! \nI trust your judgement along with your hindsight and your foresight!! I'm with you!! #feelthebern #Sanders2016 #NotMeUs",
+                    "id": "988280761226928_988672171187787",
+                    "created_time": "2016-02-24T02:06:17+0000"
+                },
+                {
+                    "from": {
+                        "name": "Katie Micherone",
+                        "id": "10154094794294155"
+                    },
+                    "message": "\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+                    "id": "988280761226928_988672214521116",
+                    "created_time": "2016-02-24T02:06:23+0000"
+                },
+                {
+                    "from": {
+                        "name": "Emily Sarah Louise Szumiesz",
+                        "id": "10206585178771273"
+                    },
+                    "message": "It's more important.",
+                    "id": "988280761226928_988672247854446",
+                    "created_time": "2016-02-24T02:06:29+0000"
+                },
+                {
+                    "from": {
+                        "name": "Herman Lewis",
+                        "id": "115354338855557"
+                    },
+                    "message": "Bernie Sanders Needs to concede NOW so Hillary Clinton can focus on defeating the republican #FuckBernie #WeStandWithHer",
+                    "id": "988280761226928_988672471187757",
+                    "created_time": "2016-02-24T02:07:07+0000"
+                },
+                {
+                    "from": {
+                        "name": "Fr\u00e9d\u00e9rick Brault",
+                        "id": "971512116268495"
+                    },
+                    "message": "Bernie Sanders, you have to continuously tell people that polls show you would win against Trump, not Hillary. One of the reason people support Trump so much, even with all the crap he says, is because he is not part of the establishment and he doesn't take money from nobody, meaning he can't be bought. That would be Hillary's weakest point against him and only you can compete with him on that matter!",
+                    "id": "988280761226928_988672537854417",
+                    "created_time": "2016-02-24T02:07:21+0000"
+                },
+                {
+                    "from": {
+                        "name": "Michael Beal",
+                        "id": "10153829650366826"
+                    },
+                    "message": "What are the Senator's plans for being a declared write-in candidate in all the states? I don't trust the DNC and their preference for the establishment candidate HC. In Indiana he must be declared to be on the ballot.",
+                    "id": "988280761226928_988672647854406",
+                    "created_time": "2016-02-24T02:07:41+0000"
+                },
+                {
+                    "from": {
+                        "name": "Pine Delgado",
+                        "id": "925998994182253"
+                    },
+                    "message": "Sen. Sanders, I'm very glad that you are one of the candidates for the United States Presidency on the Democratic side of the action. One of my friends from high school who is also a Facebook friend, Meredith Buyrucu of Pasadena, CA, is a huge fan and supporter of yours. I just got finished telling her that you would look nice with a mustache. Have you ever considered growing one, Mr. Sanders? If Abraham Lincoln can grow a beard because a little girl told him to, you could probably do the same in raising a mustache--you'd look distinguished and you'd be the first US President since William Howard Taft in 1913 to have one! This was just so you know. Thanks a mint!",
+                    "id": "988280761226928_988672651187739",
+                    "created_time": "2016-02-24T02:07:42+0000"
+                },
+                {
+                    "from": {
+                        "name": "Diane Manson",
+                        "id": "1583635048623633"
+                    },
+                    "message": "Judgment is even more important than experience - just look at all these seasoned politicians - enuf said.",
+                    "id": "988280761226928_988672724521065",
+                    "created_time": "2016-02-24T02:08:05+0000"
+                },
+                {
+                    "from": {
+                        "name": "Joshua Meyers",
+                        "id": "1044571668927567"
+                    },
+                    "message": "Watching the Democratic Townhall... basically Hillary has no intention of releasing any of the speeches that she said she would??? Now she says she will release them when everyone else does... including the Republicans.... that's not what she said 17 days ago..............",
+                    "id": "988280761226928_988673017854369",
+                    "created_time": "2016-02-24T02:09:14+0000"
+                },
+                {
+                    "from": {
+                        "name": "Pauline St.Denis",
+                        "id": "10208688978879796"
+                    },
+                    "message": "Bernie you are the one for us !",
+                    "id": "988280761226928_988673074521030",
+                    "created_time": "2016-02-24T02:09:27+0000"
+                },
+                {
+                    "from": {
+                        "name": "Maria D. Guzman",
+                        "id": "1080655291991779"
+                    },
+                    "message": "Blessings for Bernie! I am so sorry that he had to stand in front of an empty congress once.",
+                    "id": "988280761226928_988673247854346",
+                    "created_time": "2016-02-24T02:10:02+0000"
+                },
+                {
+                    "from": {
+                        "name": "Joseph J. O'Malley",
+                        "id": "10205682627812982"
+                    },
+                    "message": "New grass roots supporter video! Check out the site to be in the next one! #ThisLandForBernie #FeelTheBern\n\nhttps://www.youtube.com/watch?v=dYJ-ijaRwCU",
+                    "id": "988280761226928_988673291187675",
+                    "created_time": "2016-02-24T02:10:09+0000"
+                },
+                {
+                    "from": {
+                        "name": "Rachel Elizabeth",
+                        "id": "10153717598011077"
+                    },
+                    "message": "Vote Bernie Sanders for President! #BernieSanders2016 \nFor more information on #BernieSanders  --> \nhttp://m.huffpost.com/us/entry/sanders-is-right-iraq-is_b_9223272.html\nhttp://www.inquisitr.com/2709907/170-top-economists-feel-the-bern-endorse-bernie-sanders-wall-street-reform-plan/\n FeelTheBern.org berniesanders.com sanders.senate.gov ilikeberniebut.com\nAre you in a closed primary election state? Change your party registration to democrat to be able to vote for #Bernie in the primary elections! Voteforbernie.org http://www.fairvote.org/primary_voting_at_age_17\n#FeelTheBern #WeAreBernie #NotMeUs",
+                    "id": "988280761226928_988676104520727",
+                    "created_time": "2016-02-24T02:11:18+0000"
+                },
+                {
+                    "from": {
+                        "name": "Bob Lamb",
+                        "id": "10156522232125137"
+                    },
+                    "message": "This is the best article I've read on the differences between Bernie and Clinton.  It's objective, supported by facts, and covers every major issue.  Spread this one widely--share and share again.\n\nhttp://www.dailykos.com/story/2016/2/22/1489185/-The-Definitive-Encyclopedic-Case-For-Why-Hillary-Clinton-is-the-Wrong-Choice",
+                    "id": "988280761226928_988677994520538",
+                    "created_time": "2016-02-24T02:11:48+0000"
+                },
+                {
+                    "from": {
+                        "name": "Walter White Jr",
+                        "id": "10207173193181182"
+                    },
+                    "message": "Most of the arguments against Sanders come down to saying he'll \"never get that done\" with our political \"reality\".\n\nSo, essentially, they're against Sanders not for anything he's trying to do, but because they're against the political establishment which stops progress.... which is the VERY THING HE'S WORKING TO CHANGE.\n\nIt takes a special kind of stupid to support that lack of reasoning.",
+                    "id": "988280761226928_988678147853856",
+                    "created_time": "2016-02-24T02:12:20+0000"
+                },
+                {
+                    "from": {
+                        "name": "Joe Smith",
+                        "id": "572530689578528"
+                    },
+                    "message": "Bernie you have more experience than Hillary - you have 20+ years of public service whereas she was a First Lady during your time in elected office. \n\nWhen she did get \"experience\" as a senator she voted to invade Iraq than as if she learned nothing from that mistake turns around and supports war in Libya as sec of state! (Along with another scandal here and there)\n\nNow she wants the highest office in the land, no no no!!",
+                    "id": "988280761226928_988678161187188",
+                    "created_time": "2016-02-24T02:12:27+0000"
+                },
+                {
+                    "from": {
+                        "name": "Guy Foster",
+                        "id": "1045091945542509"
+                    },
+                    "message": "On the issue of wall street she said if the rest are going to do it , so will I.  Spoken lime a true follower.  Bernie will not take money from wall street.  He is a leader",
+                    "id": "988280761226928_988678411187163",
+                    "created_time": "2016-02-24T02:13:16+0000"
+                },
+                {
+                    "from": {
+                        "name": "Bob Smith",
+                        "id": "140554189665967"
+                    },
+                    "message": "Love Bernie Sanders? Want a free Bernie Sanders T-shirt? Go to FeelTheBern16.weebly.com to claim yours today!",
+                    "id": "988280761226928_988678431187161",
+                    "created_time": "2016-02-24T02:13:19+0000"
+                },
+                {
+                    "from": {
+                        "name": "Iris Anne Pickens Denard",
+                        "id": "10154031493304940"
+                    },
+                    "message": "what the hell is the matter with you. Young people love you . but you have to get down tell the thruth about Hillary about emails no one trust her I should write your speeches.america needs you I live in ga. do something get some back bone thanks iris",
+                    "id": "988280761226928_988678594520478",
+                    "created_time": "2016-02-24T02:13:45+0000"
+                },
+                {
+                    "from": {
+                        "name": "Hank Elliott",
+                        "id": "1043813365675077"
+                    },
+                    "message": "This was the most important vote they differed on. The result was tens of thousands of dead Iraqi civilians and over 5000 dead US soldiers. Hands down, one very good reason to support Bernie instead of Hillary.",
+                    "id": "988280761226928_988678604520477",
+                    "created_time": "2016-02-24T02:13:50+0000"
+                },
+                {
+                    "from": {
+                        "name": "Leah Daniel",
+                        "id": "525194407641854"
+                    },
+                    "message": "Bernie why did you vote no? That's what I'd like to ask him. Saying it was the right vote is not a full explanation.",
+                    "id": "988280761226928_988678687853802",
+                    "created_time": "2016-02-24T02:14:08+0000"
+                },
+                {
+                    "from": {
+                        "name": "Michelle Davidson",
+                        "id": "254421128222528"
+                    },
+                    "message": "Can someone tell me why Hillary gets to run since she is under FBI investigation",
+                    "id": "988280761226928_988678764520461",
+                    "created_time": "2016-02-24T02:14:17+0000"
+                },
+                {
+                    "from": {
+                        "name": "Rodney Bryce Higgins",
+                        "id": "963240247101520"
+                    },
+                    "message": "Bernie Sanders, and, more recently, Hillary favors a no-fly zone over Syria while you, and President Obama do not favor it.  Maybe Hillary should reconsider since she doesn't know if she will shoot down a Russian plane or not, but she hopes it won't get to that.",
+                    "id": "988280761226928_988679031187101",
+                    "created_time": "2016-02-24T02:15:04+0000"
+                },
+                {
+                    "from": {
+                        "name": "Karen Lecter",
+                        "id": "10156802379175001"
+                    },
+                    "message": "Explain this.  You're no different than any other pro NRA politician.  https://www.washingtonpost.com/politics/how-the-nra-helped-put-bernie-sanders-in-congress/2015/07/19/ed1be26c-2bfe-11e5-bd33-395c05608059_story.html",
+                    "id": "988280761226928_988679111187093",
+                    "created_time": "2016-02-24T02:15:16+0000"
+                },
+                {
+                    "from": {
+                        "name": "Julie Sanchez",
+                        "id": "971287026240338"
+                    },
+                    "message": "Love this guy.",
+                    "id": "988280761226928_988679187853752",
+                    "created_time": "2016-02-24T02:15:38+0000"
+                },
+                {
+                    "from": {
+                        "name": "Alex Koenigsberg",
+                        "id": "10153396130686526"
+                    },
+                    "message": "Not to mention one of you has always supported unions. Hillary stayed quiet while serving on the Walmart board when they called unions \"blood suckers\" - http://abcnews.go.com/Blotter/clinton-remained-silent-wal-mart-fought-unions/story?id=4218509",
+                    "id": "988280761226928_988679247853746",
+                    "created_time": "2016-02-24T02:15:53+0000"
+                },
+                {
+                    "from": {
+                        "name": "David Suchmann",
+                        "id": "10207774545013980"
+                    },
+                    "message": "Bernie is 1000% correct for America!! Hillary and the Republiscums are a disgusting group of selfish, lying, scheming, low-life swindlers, that do no not represent the 90%.  They only care about themselves and the wealthy!!  Take back America!!! Spread the word, because the media won't!!   Bernie is our ONLY hope!! Some (D) and (R) are destroying our land, air and water as well as the Middle Class. Enough is enough! Bernie is our ONLY hope!! Hillary is incompetent and loyal to CROOKs! --- If the masses vote for anyone but Bernie, then the Masses are just plain Asses!! --- If the working class does not support Bernie, then they better not complain when they continue to lose everything and finally go broke!!",
+                    "id": "988280761226928_988679284520409",
+                    "created_time": "2016-02-24T02:16:00+0000"
+                },
+                {
+                    "from": {
+                        "name": "Matt Mikloczak",
+                        "id": "10154005140934479"
+                    },
+                    "message": "Bernie...you gotta fight like hell. I'm sick of voting for the lessor of 2 evils.  How about a strong speech to all americans, that you want to return the strength of the nation to vision of those who drafted the constitution. For the people by the people.",
+                    "id": "988280761226928_988679424520395",
+                    "created_time": "2016-02-24T02:16:30+0000"
+                },
+                {
+                    "from": {
+                        "name": "Doris Jay",
+                        "id": "702646303171952"
+                    },
+                    "message": "Hillary Clinton spoke so eloquently in opposition and then said yes. I was dumbfounded. I'm sure she wanted to be on the side of the majority. She was wrong. Very wrong. She is too indebted to the corporations for me.",
+                    "id": "988280761226928_988679521187052",
+                    "created_time": "2016-02-24T02:16:52+0000"
+                },
+                {
+                    "from": {
+                        "name": "Pat Rounds",
+                        "id": "1129101483791108"
+                    },
+                    "message": "At the CNN Town Hall, HRC just raised the bar on disclosing her Wall Street speech transcripts. Now ALL the candidates must share transcripts from their speeches, not just Bernie Sanders. Too smart by half?  Not necessarily.  Why would the GOP candidates be hesitant about sharing transcripts? Answer: They wouldn't.  These GOP candidates say whatever they please before any audience.  So the few GOP candidates who remain in the race should step forward and volunteer their corporate or special interest speech transcripts, if they've been paid to deliver them.  And then how will Hillary try to raise the bar?  What a doofus.",
+                    "id": "988280761226928_988681714520166",
+                    "created_time": "2016-02-24T02:17:28+0000"
+                },
+                {
+                    "from": {
+                        "name": "Charlotte Williams",
+                        "id": "210198109332837"
+                    },
+                    "message": "Hillary's experience is why I don't want her to be the next POTUS.",
+                    "id": "988280761226928_988681974520140",
+                    "created_time": "2016-02-24T02:18:29+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jessica Stewart Clay",
+                        "id": "10208340962940258"
+                    },
+                    "message": "Bernie Sanders and VP Elizabeth Warren!",
+                    "id": "988280761226928_988682304520107",
+                    "created_time": "2016-02-24T02:19:31+0000"
+                },
+                {
+                    "from": {
+                        "name": "Bill Stiteler",
+                        "id": "1104952296215737"
+                    },
+                    "message": "That was literally the dumbest thing I've heard from Hillary yet.  Republicans aren't promising to be tough on banks.  She is.  No transparency, means she'll never get my vote.  #BernieOrBust #NeverHillary",
+                    "id": "988280761226928_988683771186627",
+                    "created_time": "2016-02-24T02:21:47+0000"
+                },
+                {
+                    "from": {
+                        "name": "Lilly Sanchez",
+                        "id": "183168752052380"
+                    },
+                    "message": "So many lives and so much money wasted on an illegal war that only served to destabilize the region. Those 2.2 trillion dollars could have funded 30 years of tuition free college under Bernie's plan.",
+                    "id": "988280761226928_988683784519959",
+                    "created_time": "2016-02-24T02:21:48+0000"
+                },
+                {
+                    "from": {
+                        "name": "Daniel Deveron Baker",
+                        "id": "10205157724777103"
+                    },
+                    "message": "Bernie Sanders for President.. if you want peace and security and respect for our Nation. On the other hand, if you sympathize with billionaire corporations who make their profits from wars (sales of arms, ammo, and black op mercenary soldiers for hire), then vote for any of the other candidates. If perpetual war is your cup of tea, then Bernie Sanders is NOT the candidate for you. If you'd like to give peace a chance, then please give Bernie Sanders a chance. Vote for him. Caucus for him. Elect him in November. And then, be an active participant in our USA democracy. Join the political revolution!",
+                    "id": "988280761226928_988683897853281",
+                    "created_time": "2016-02-24T02:22:16+0000"
+                },
+                {
+                    "from": {
+                        "name": "Steve Blank",
+                        "id": "10208624802127833"
+                    },
+                    "message": "He did just go with the crowd and send our soldiers to die. Thank you for your good judgement.",
+                    "id": "988280761226928_988684001186604",
+                    "created_time": "2016-02-24T02:22:35+0000"
+                },
+                {
+                    "from": {
+                        "name": "Charlie Trowbridge",
+                        "id": "967691039987898"
+                    },
+                    "message": "The Iraq War was a major money maker for her Wall Street friends..",
+                    "id": "988280761226928_988684047853266",
+                    "created_time": "2016-02-24T02:22:39+0000"
+                },
+                {
+                    "from": {
+                        "name": "Maria Bell",
+                        "id": "1139103426113602"
+                    },
+                    "message": "He has a lot more experience and great judgement #Bernie2016",
+                    "id": "988280761226928_988684344519903",
+                    "created_time": "2016-02-24T02:23:42+0000"
+                },
+                {
+                    "from": {
+                        "name": "David Evans",
+                        "id": "10205704953451877"
+                    },
+                    "message": "why we are voting for Bernie...",
+                    "id": "988280761226928_988684437853227",
+                    "created_time": "2016-02-24T02:23:53+0000"
+                },
+                {
+                    "from": {
+                        "name": "Pete Veslocki",
+                        "id": "10204063458066317"
+                    },
+                    "message": "Going to war is one thing.\n\nObama pulling out troups out early was treasonous.",
+                    "id": "988280761226928_988684651186539",
+                    "created_time": "2016-02-24T02:24:27+0000"
+                },
+                {
+                    "from": {
+                        "name": "Cory Young",
+                        "id": "1701720756784262"
+                    },
+                    "message": "I just donated, a first for me but not the last! You have my support",
+                    "id": "988280761226928_988685077853163",
+                    "created_time": "2016-02-24T02:24:34+0000"
+                },
+                {
+                    "from": {
+                        "name": "Tyler Beckley",
+                        "id": "1014918398553767"
+                    },
+                    "message": "\ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb",
+                    "id": "988280761226928_988685324519805",
+                    "created_time": "2016-02-24T02:25:26+0000"
+                },
+                {
+                    "from": {
+                        "name": "Tony Fletcher",
+                        "id": "1268303756519740"
+                    },
+                    "message": "Bernie Sanders helped write and voted for the 2017 Obamacare's 666 Mark of the Beast RFID Chip implant into the right arm or hand. Classified as a Class II Medical Device and is administered by the Food and Drug Administration, FDA. \n\nThis video is an advertisement that shows how the new microchip will work. It is very cleverly done and even though it has sparked a lot of outrage, it has certainly raised a lot of discussion as well. This new technology allows you to check out without having to scan items and it also means that you don\u2019t need to handle any money either. All of your data is on your RFID chip and this video just goes to show how easily the world could change at the hands of technology.\n\nNew IBM Television Commercial to sell Obamacare's 2017 Radio Frequency Identification Device (RFID) Chip. Class II Medical \nhttps://www.youtube.com/embed/bKaa2CobK3A \n\nBernie Sanders: In terms of the Affordable Care Act, I am on the committee that helped write that Bill.  \n(29 Seconds into video)\nVideo URL at current time: https://youtu.be/dWoTRTtHF4k?t=29 \nFull Video: https://www.youtube.com/embed/dWoTRTtHF4k \n\nBernie Sanders: \"Let me be very clear\u2026 I voted for Obamacare.\" \n(4 minutes and 10 seconds into video)\nVideo URL at current time: https://youtu.be/rMniHEjv4jY?t=250 \nFull Video: https://www.youtube.com/embed/rMniHEjv4jY \n\nNBC Prediction That We Will All Have an RFID Chip Under Our Skin by 2017\nhttps://www.youtube.com/embed/1YJsxMcAJoA \n\nFox News the Kelley Files with Megan Kelly \u2013 \u201cIt can kill you if you get out of line.\u201d\nhttps://youtu.be/qCVVUuvXOoc?t=38 \n\nKing James Bible - And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand. And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name. \nhttp://www.kingjamesbibleonline.org/Bible-Verses-About-Mark-of-the-Beast/ \n\nFDA \u2013 The ONLY JOB OF THE GOVERNMENT is to PROVIDE for the DEFENSE NATIONAL SECURITY and TO IMPROVE THE FLOW OF INTERSTATE COMMERCE BETWEEN STATES, aka. Roads and Freeways. (NOT 666)\n\nFinal labeling must comply with the requirements of 21 CFR 801 before a medical device is introduced into interstate commerce \nhttp://www.fda.gov/RegulatoryInformation/Guidances/ucm072141.htm#4l \n\nhttp://www.fda.gov/Radiation-EmittingProducts/RadiationSafety/ElectromagneticCompatibilityEMC/ucm116647.htm \n\nGuidance for Industry and FDA Staff - Class II Special Controls Guidance Document: Implantable Radiofrequency Transponder System for Patient Identification and Health Information. \nhttp://www.fda.gov/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm072141.htm \n\nJohn Hagee 4 Hourses of the Appacolypse \nhttps://www.youtube.com/embed/8b5NfNwJMS8 \n\n--- News Articles --- \u000b \n\nNews Articles \nH.R. 3200 section 2521, Pg. 1001, paragraph 1.\nThe Secretary shall establish a national medical device registry (in this subsection referred to as the \u2018registry\u2019) to facilitate analysis of postmarket safety and outcomes data on each device that\u2014 \u2018\u2018is or has been used in or on a patient; \u2018\u2018and is\u2014 \u2018\u2018a class III device; or \u2018\u2018a class II device that is implantable, life-supporting, or life-sustaining.\u201d\nhttp://beforeitsnews.com/obama/2013/10/obamacare-page-1004-you-must-have-rfid-chip-implanted-in-your-body-2456560.html \n\n--- Original Link --- \nhttps://www.facebook.com/SilviaSaintOfficial/posts/1006492626075835 \n\nhttps://m.facebook.com/story.php?story_fbid=1239610129389103&id=100000203823763",
+                    "id": "988280761226928_988685351186469",
+                    "created_time": "2016-02-24T02:25:35+0000"
+                },
+                {
+                    "from": {
+                        "name": "Tony Fletcher",
+                        "id": "1268303756519740"
+                    },
+                    "message": "Bernie Sanders: Why I Support the US-Iran Nuclear Deal (9/8/2015) \n\nhttps://www.youtube.com/embed/fbnC9Z4sfNQ \n\nVideo URL\nhttps://www.youtube.com/embed/5I1DYXzk48Y \n\nVideo URL at Current time\nhttps://youtu.be/5I1DYXzk48Y?t=14://youtu.be/5I1DYXzk48Y?t=14 \n\nIran Warns of \u2018Third World War\u2019 \nhttp://freebeacon.com/national-security/iran-warns-of-third-world-war/\n\n1.  The end results shown below. Iran's ICBM's awaiting orders for deployment. EXCLUSIVE VIDEO: SECRET UNDERGROUND IRANIAN MISSILE BASE REVEALED FOR THE FIRST TIME ON TV!!! \nhttps://www.youtube.com/embed/fbnC9Z4sfNQ \n\n2.  Iran, 500 meter Underground secret missile base \nhttps://www.youtube.com/embed/M0Ie69i--TE \n\n3. Iran Successfully Test Fires Long Range Ballistic Missile  \nhttps://www.youtube.com/embed/epNha0CMWWk  \n\nhttps://www.facebook.com/FoxBusiness/videos/10153747248540238/ \n\n4.  March 23, 2015 - Iranian Leader Khamenei: Death to America; Obama Is Trying to Turn Our People against the Regime \nhttps://www.youtube.com/embed/tuE75aWqieQ \n\n5.  Nov. 4, 2015 - Iranians chant 'Death to America' to mark embassy seizure \nhttps://www.youtube.com/embed/L_zrTFhZhJc \n\n6. QUITE SIMPLY ONE OF THE BEST SPEECHES EVER! \nhttps://www.youtube.com/embed/i3lEO0ty6No  \n\n7.  Obama records message for Iranians to commemorate Iranian New Year \nhttps://www.youtube.com/embed/6IGqPkD20Ac \n\n8. A mysterious light in the sky over the weekend puzzled many southern Californian residents, but the Pentagon reports that it was a scheduled missile test off the coast. \nhttps://www.facebook.com/FoxBusiness/videos/10153693069585238/ \n\n9.  Intelligence gained by the IAEA suggests that equipment at an Iranian nuclear facility used for testing nuclear triggers is now missing. The equipment is known to have been present at the site as of 2011. \nhttps://www.facebook.com/FoxBusiness/videos/10153673576470238/ \n\n10. Sign from God that has already passed; The Four Blood Moons with Comet ISON  (aka. His Son)\nhttps://www.youtube.com/embed/R1ZgRKePMqo",
+                    "id": "988280761226928_988685361186468",
+                    "created_time": "2016-02-24T02:25:37+0000"
+                },
+                {
+                    "from": {
+                        "name": "Tom Worth",
+                        "id": "1011771845535131"
+                    },
+                    "message": "It's a LONG haul to the convention! GO BERNIE!",
+                    "id": "988280761226928_988685574519780",
+                    "created_time": "2016-02-24T02:26:26+0000"
+                },
+                {
+                    "from": {
+                        "name": "Adria Jackson",
+                        "id": "1183096458374958"
+                    },
+                    "message": "Your getting boring Bernie.",
+                    "id": "988280761226928_988685601186444",
+                    "created_time": "2016-02-24T02:26:28+0000"
+                },
+                {
+                    "from": {
+                        "name": "Doree Kaplan",
+                        "id": "1663717430519682"
+                    },
+                    "message": "WHY is the U.S. creating wars worldwide?????  Making killers out of thousands who are even being paid to do that.  Destroying families, and decimating countries which are not our own.. No one has invaded or attacked us in seventy years yet we continue to do that in so many places.  Spending TRILLIONS that benefits only munitions makers and their politicians...All of which is sorely needed at home...With all of us complacently accepting and going along...",
+                    "id": "988280761226928_988685667853104",
+                    "created_time": "2016-02-24T02:26:38+0000"
+                },
+                {
+                    "from": {
+                        "name": "Robby Saylor",
+                        "id": "1076509165724140"
+                    },
+                    "message": "If you asked anyone on the ground near ground zero on 9/11/01 that day, not one person would say Saddam Hussein was to blame for those attacks.  Not one.",
+                    "id": "988280761226928_988685931186411",
+                    "created_time": "2016-02-24T02:27:30+0000"
+                },
+                {
+                    "from": {
+                        "name": "Chesley Williams",
+                        "id": "10153804447175071"
+                    },
+                    "message": "\"Who Is Bernie Sanders?\"\nPosted On Feb 22 2016 By : Dr. Sarah Condor \"Bernard Sanders grew up in Brooklyn in an orthodox Jewish family, attended a Hebrew school, later studied at Brooklyn College and transferred to Chicago University for a BA in Political Science, his only degree. He attributes his \u201cmediocrity\u201d to lack of interest in studies, because he wanted to be more involved in community organizing, going out, not staying home with books. Another reason? He admired Hitler, as he says, for the power Hitler had over people. He was fascinated with this power and always wanted to follow a political career leading to such a position.\n\nAs a Young Socialist (member of the Socialist Party of America) he organized the first Chicago sit-in, protested housing discrimination, and marched on Washington in 1963 to hear Martin Luther King in person. Of course, he met Saul Alinsky and Noam Chomsky, even before he ran as a Democrat for Mayor of Burlington. No-one ran against him on the Republican side\u2026 He was a good mayor, they say, improving all public areas, making everything he could public: park, science center, embankment, housing\u2026\n\nYou can do that with a small town or even a small country, such as Denmark (population 5mil.), not with a country the size of the United States! Why? We want the individual to have the power. The power of each of us rests in how capable we are, how hard we work, what we earn and reinvest of our own volition. In short, private property equals freedom. Take away property, collectivize it, you have a nation of slaves.\" \"Finally, Jane Sanders O\u2019Meara was a social worker and community organizer in Burlington, where Sanders was Mayor. She became President of Burlington College, but had to retire in 4 years, fired for causing \u201ca toxic and disruptive environment.\u201d Her salary was $160K, severance pay $200K. Today, Jane Sanders O\u2019Meara is the one who decides everything regarding Sanders\u2019 policy and appearances. As he says, she is \u201cone of his key advisors, administrative & policy adviser, chief of staff and media buyer\u201d and, interestingly, Sanders credited her with drafting more than 50 pieces of \u201chis\u201d Congressional legislature.\n\nShall we vet our candidates or stay complacent and elect another puppet in the hands of political hacks and ideologues \u2013 this time the one who looks up to Hitler and Marx as paragons of political power?\" http://politichicks.com/2016/02/who-is-bernie-sanders/",
+                    "id": "988280761226928_988685987853072",
+                    "created_time": "2016-02-24T02:27:44+0000"
+                },
+                {
+                    "from": {
+                        "name": "Amber Genett",
+                        "id": "10153935429964395"
+                    },
+                    "message": "Bernie....I'm not a Dem...but I have to tell you that you are a class act.  Good luck against HC.",
+                    "id": "988280761226928_988686204519717",
+                    "created_time": "2016-02-24T02:28:24+0000"
+                },
+                {
+                    "from": {
+                        "name": "Boumedienn Gacem",
+                        "id": "1682328215357526"
+                    },
+                    "message": "",
+                    "id": "988280761226928_988686284519709",
+                    "created_time": "2016-02-24T02:28:31+0000"
+                },
+                {
+                    "from": {
+                        "name": "Kate Anderson",
+                        "id": "1250367438311452"
+                    },
+                    "message": "WE NEED EVERY VOTE \n\nThe commitment to show up to vote for Bernie in every state as we grow our tribe across the country is critical.  It's the major reason we came short in Nevada and Ohio.\n\nKey takeaways learned in Obama vs. Clinton race.\n\nMarketing is tribal.  Barack Obama had a challenge . He knew that the traditional base for Democratic candidates wouldn't be sufficient to get him elected (it had failed John Kerry). So he too set out to weave a new tribe, a tribe that included progressives, the center, younger religious voters, weary veterans, internationalists, Nobel prize winners, black voters and others.\n\nMotivating the committed outperforms persuading the uncommitted. The unheralded success factor of Obama's campaign is the get out the vote effort. Every marketer can learn from this. It's easier (far easier) to motivate the slightly motivated than it is to argue with those that either ignore you or are predisposed to not like you.\n\nSeth Godin marketing genius",
+                    "id": "988280761226928_988686384519699",
+                    "created_time": "2016-02-24T02:28:44+0000"
+                },
+                {
+                    "from": {
+                        "name": "Rand Hyden",
+                        "id": "1508960626080145"
+                    },
+                    "message": "Bernie nailed. The second Iraq was a tactical bunder we still haven't finished paying for.",
+                    "id": "988280761226928_988686541186350",
+                    "created_time": "2016-02-24T02:29:06+0000"
+                },
+                {
+                    "from": {
+                        "name": "Rudy Valentin",
+                        "id": "10206061003353229"
+                    },
+                    "message": "Bernie is the only sencible person that can direct our country forward.",
+                    "id": "988280761226928_988686811186323",
+                    "created_time": "2016-02-24T02:29:35+0000"
+                },
+                {
+                    "from": {
+                        "name": "Frances Cappelletti",
+                        "id": "10205976061629559"
+                    },
+                    "message": "We needed all the votes for gun safety.",
+                    "id": "988280761226928_988686957852975",
+                    "created_time": "2016-02-24T02:29:54+0000"
+                },
+                {
+                    "from": {
+                        "name": "Ruben Villegas",
+                        "id": "196672270690618"
+                    },
+                    "message": "Anthony Lopez",
+                    "id": "988280761226928_988687284519609",
+                    "created_time": "2016-02-24T02:30:53+0000"
+                },
+                {
+                    "from": {
+                        "name": "Matthew Habben",
+                        "id": "10208676226413767"
+                    },
+                    "message": "73% of the American public was for the Iraq war. I only remember Robert Byrd speaking out against the Iraq war. I know Congress had a coalition against the Iraq war but I don't remember Bernie Sanders name at the head of that opposition to the Iraq war. Bernie Sanders is like the politician that Newt Gingrich was speaking to a mostly empty chamber at midnight in opposition to something with only c-span watching....",
+                    "id": "988280761226928_988687551186249",
+                    "created_time": "2016-02-24T02:31:40+0000"
+                },
+                {
+                    "from": {
+                        "name": "Trevor Scott",
+                        "id": "10153429644977475"
+                    },
+                    "message": "I'll take good judgement over experience being a corrupt politician any day of the week.",
+                    "id": "988280761226928_988687944519543",
+                    "created_time": "2016-02-24T02:32:42+0000"
+                },
+                {
+                    "from": {
+                        "name": "Patty West",
+                        "id": "10208047962145855"
+                    },
+                    "message": "Stop her games.  The people want Bernie",
+                    "id": "988280761226928_988687967852874",
+                    "created_time": "2016-02-24T02:32:51+0000"
+                },
+                {
+                    "from": {
+                        "name": "Brittany Thomas",
+                        "id": "10154319702807289"
+                    },
+                    "message": "Matthew Mesger Lucas Sheets",
+                    "id": "988280761226928_988688741186130",
+                    "created_time": "2016-02-24T02:35:23+0000"
+                },
+                {
+                    "from": {
+                        "name": "Pari Ansari",
+                        "id": "10205654551590846"
+                    },
+                    "message": "He had a great vision then and a greater vision now with more experience, His moral values has not changed. He looks out for all people! Senator Sanders's judgment is..................!",
+                    "id": "988280761226928_988688891186115",
+                    "created_time": "2016-02-24T02:35:53+0000"
+                },
+                {
+                    "from": {
+                        "name": "Waitstill Hubbell",
+                        "id": "169881013391317"
+                    },
+                    "message": "tonight 2/23/16 at town hall she will not release transcripts of wall street speeches .... unless the rest of the republicans do\nasking why should she be held to a higher standard than them......say what ???\nshe does not think we should hold her to a higher standard than republicans \nok ....we won't ....we will elect bernie sanders president because he holds himself to a higher standard than republicans",
+                    "id": "988280761226928_988689064519431",
+                    "created_time": "2016-02-24T02:36:26+0000"
+                },
+                {
+                    "from": {
+                        "name": "Martha Hernandez",
+                        "id": "460270040849995"
+                    },
+                    "message": "\" Go,!!! Bernie Sanders,!!!!\n\"Go,!!! Bernie Sanders,!!!! Bernie is the man for the job, not only were facing property in America, but global warming, all over the planet, he's the only man that cares to stop this destruction of humanity, look around you all the signs are there, the climate is changing, is getting hostile to survive for humans, the sea levels are rising, is due to global warming, the iceberg and Alaska falling, too many earthquakes all over the planet, weather changes through the day, the illuminating the rainforest, damage to the planet is to too man creation, force self-interest, just think for one moment, they ,never going to tell us, the truth, we ,need a change your kids, grandparents, parents youngsters generations, to come not going to have no future, Bernie Sanders ,to provide that for human beings , we need good jobs , suggest vote for Bernie Sanders, .",
+                    "id": "988280761226928_988689301186074",
+                    "created_time": "2016-02-24T02:37:24+0000"
+                },
+                {
+                    "from": {
+                        "name": "Debbie Ashburn Crosslin",
+                        "id": "1727603837455936"
+                    },
+                    "message": "He weighed the proof of WMD, instead of blinding following the sheep into slaughter.",
+                    "id": "988280761226928_988689461186058",
+                    "created_time": "2016-02-24T02:38:04+0000"
+                },
+                {
+                    "from": {
+                        "name": "Kenneth Dixon Nogales Az",
+                        "id": "10154531635313265"
+                    },
+                    "message": "Kenneth Dixon Nogales Az  the truth of all the world today is all we can do anything about just do that one thing.  I admonish you to speak to the country and tell them the problems caused by the federal government and the Veterans Administration and their fraud against the total family by refusing to pay my family and myself for the wounds i received in line of duty while i served in the military in Vietnam. They have been ordered by the federal court to pay myself the income they have refused to pay me for my serve and wounds. which would have made a very large difference in  life. and my full belief is that the veterans of the United States of America. have more of a right to receive a income at the very top of the middle class in America for their selfless service to the nation. note the totally disabled veteran receives from $24,000-to $36,000 income per year while in the government pay's a first term member of congress over $200,000 and all the political contributions. Please past this on and think if you do not have a right to get a education to help yourself better support your family. Vote and get rid of any political person in congress it does not matter if there name has a Dem, Rep. or even Independent. stop political action communities and lobbyist making the illegal the same as we do for the drug dealers. because that is what they are going against the American belief in Freedom.   Remember the veterans of the united states have given there health and in very many cases there lives for you the have the right to vote so please do vote",
+                    "id": "988280761226928_988689494519388",
+                    "created_time": "2016-02-24T02:38:08+0000"
+                },
+                {
+                    "from": {
+                        "name": "Tommy Rpberts",
+                        "id": "1562788334034588"
+                    },
+                    "message": "Where is our bail out? Oh wait, that would be socialism. But bankers realizing obscene profits at public costs is freedom. It is our turn. \nhttp://www.npr.org/2016/02/18/467112859/he-led-the-financial-bailout-but-says-banks-are-still-too-big-to-fail?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20160218",
+                    "id": "988280761226928_988689541186050",
+                    "created_time": "2016-02-24T02:38:12+0000"
+                },
+                {
+                    "from": {
+                        "name": "Peter Alexander",
+                        "id": "402424783261590"
+                    },
+                    "message": "The PNAC, a neoconservative think tank, lobbied the Clinton administration to attack Saddam during late 1990s. Bill didn't invade, but he did promote and endorse regime change.",
+                    "id": "988280761226928_988689687852702",
+                    "created_time": "2016-02-24T02:38:35+0000"
+                },
+                {
+                    "from": {
+                        "name": "Ems Hullum",
+                        "id": "10100517468635871"
+                    },
+                    "message": "Bernie Sanders had the courage to do what was right even when it was unpopular.  That is something that will never be said about Hillary clinton.  Bernie Sanders is the only candidate that will use good judgment to make major decisions.  Hillary Clinton will let her highest donors dictate policy.",
+                    "id": "988280761226928_988689811186023",
+                    "created_time": "2016-02-24T02:39:05+0000"
+                },
+                {
+                    "from": {
+                        "name": "Desmond Cadogan",
+                        "id": "10154423030152119"
+                    },
+                    "message": "Go #SenatorSanders GO GO GOOO!!!  #FeelTheBern #inittowinit #politicalrevolution #gotv4Bernie",
+                    "id": "988280761226928_988690651185939",
+                    "created_time": "2016-02-24T02:41:53+0000"
+                },
+                {
+                    "from": {
+                        "name": "Penny Stirling Johnson",
+                        "id": "10208799706658337"
+                    },
+                    "message": "Amen! No more WARS!!!",
+                    "id": "988280761226928_988690994519238",
+                    "created_time": "2016-02-24T02:43:09+0000"
+                },
+                {
+                    "from": {
+                        "name": "John Frushour",
+                        "id": "1276664472348974"
+                    },
+                    "message": "What is it, that could possess a democrat or independent to vote for Hillary Clinton instead of Bernie, is what I'd like to know!",
+                    "id": "988280761226928_988691074519230",
+                    "created_time": "2016-02-24T02:43:34+0000"
+                },
+                {
+                    "from": {
+                        "name": "Tommy Rpberts",
+                        "id": "1562788334034588"
+                    },
+                    "message": "12.8 trillion. The cost of TARP. We can't afford health care or college, because we have to support billionaires. \n\nhttp://www.pbs.org/wnet/need-to-know/economy/the-true-cost-of-the-bank-bailout/3309/",
+                    "id": "988280761226928_988691157852555",
+                    "created_time": "2016-02-24T02:43:54+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jimmy Anderson",
+                        "id": "502425779941014"
+                    },
+                    "message": "Careful the Clinton's consider mentioning their political bad choices as personal attacks. Although the more they try to attack Bernie the better he looks.",
+                    "id": "988280761226928_988691294519208",
+                    "created_time": "2016-02-24T02:44:25+0000"
+                },
+                {
+                    "from": {
+                        "name": "Mike Smith",
+                        "id": "168446880202772"
+                    },
+                    "message": "Yes, but you also voted for a war where Soldiers are still being killed, with a majority being killed on this president's watch. Where are you on this, Bernie? Where's your outrage? Patrick Kennedy displayed more guts than you have in condemning the war. Why not condemn it now, Bernie, huh? Worried a certain group won't back you, Bernie? You want to continue the drone-bombing, which is more of a recruitment tool for IS than Donald Trump (who will NEVER be president) has or will ever be. You're a fraud.",
+                    "id": "988280761226928_988691524519185",
+                    "created_time": "2016-02-24T02:45:04+0000"
+                },
+                {
+                    "from": {
+                        "name": "Frank Viola",
+                        "id": "10207682721820348"
+                    },
+                    "message": "Must read, Folks!! \nhttp://www.chicksontheright.com/the-moment-a-russian-leader-realized-communism-sucks-monkeyballs/",
+                    "id": "988280761226928_988691674519170",
+                    "created_time": "2016-02-24T02:45:38+0000"
+                },
+                {
+                    "from": {
+                        "name": "John Wayne",
+                        "id": "1250299381650700"
+                    },
+                    "message": "Of corse you did Bernie. Then the left voted in a Marxist, apologist, and he ripped the bandages off before the job was complete. Yea, real take charge guy ya are Bern.",
+                    "id": "988280761226928_988691817852489",
+                    "created_time": "2016-02-24T02:46:09+0000"
+                },
+                {
+                    "from": {
+                        "name": "Barbara McCullough",
+                        "id": "754031541394735"
+                    },
+                    "message": "And with your BS comment about Clinton \"pandering to the Black vote, I want to call BS. The black voters you ignored while serving in Vermont ? And I notice you cozying up to Sharpton , and staying away from the Civil Rights pioneers who fought  marched and got beaten down standing up for black rights. Because the know you are bogus. And don't forget the 2 wars Bush got the US in to those, not Obama. The only Democratic candidate I have ever refuse to vote for was Dukakis and you will be the second.",
+                    "id": "988280761226928_988692091185795",
+                    "created_time": "2016-02-24T02:47:20+0000"
+                },
+                {
+                    "from": {
+                        "name": "Tommy Rpberts",
+                        "id": "1562788334034588"
+                    },
+                    "message": "Bill Clinton ran on the promise to \"end welfare as we know it,\" a total repudiation of the FDR/LBJ legacy. With the help of republicans, Clinton was eventually successful in drastically cutting the welfare program.\n\n Clinton also signed important deregulatory bills into law, like the Commodities Futures Modernization Act and the Gramm-Leach-Bliley Act. \n\nMost economists blame one or both of these pieces of legislation with directly facilitating the housing crisis in 2008 (there is a robust debate about which one is more important, with economists like Paul Krugman leaning toward CFMA as the more important one while Robert Reich argues GLBA). Hillary Clinton supported these measures during the 1990s and has in some cases continued to voice support for them. Think about that  Bill signed all of this legislation into law. Bernie Sanders was against welfare reform and GLBA at the time (he voted for CFMA-it was snuck into an 11,000 page omnibus spending bill at the last minute).\n\nOn economic policy, contemporary establishment democrats have more in common with contemporary republicans than they do with the FDR/LBJ democrats. Carter and Clinton took the party away from economic progressives. The Democratic Party, which was once the party that saw economic inequality and poverty as the core causes of economic instability, now sees inequality and poverty as largely irrelevant.\n\nInstead of eliminating inequality and poverty to fuel the capitalist system and produce strong economic growth, establishment democrats now largely agree with establishment republicans that the problem is a lack of support for business investment.\n\nHillary Clinton is a neoliberal building on the legacy of Ronald Reagan and Bill Clinton. She doesn't understand the pivotal role inequality plays in creating economic crisis and reducing economic growth. She has been taken in by a fundamentally right wing paradigm, and if she is elected she will continue to lead the Democratic Party down that path.\n\nBernie Sanders is a democratic socialist building on the legacy of Franklin Roosevelt and Lyndon Johnson. He understands that inequality is the core structural factor in economic crisis and that growth in real wages and incomes is required for robust, sustainable economic growth.\n\nIt doesn't matter which one is more experienced, or which one's policies are more likely to pass congress, or which one is more likely to win a general election, or which one is a man and which one is a woman. This is not about just this election, or just the next four years.\n\nThis is about whether the Democratic Party is going to care about inequality for the next decade.\n\nWe are making a historical decision between two distinct ideological paradigms, not a choice between flavors of popcorn. This is important. Choose carefully.",
+                    "id": "988280761226928_988692797852391",
+                    "created_time": "2016-02-24T02:49:34+0000"
+                },
+                {
+                    "from": {
+                        "name": "Yatzky Yatzky",
+                        "id": "10205202207684407"
+                    },
+                    "message": "https://www.yahoo.com/politics/bernie-sanders-comment-about-hillary-clinton-232745375.html",
+                    "id": "988280761226928_988692831185721",
+                    "created_time": "2016-02-24T02:49:43+0000"
+                },
+                {
+                    "from": {
+                        "name": "Sam Aguilar",
+                        "id": "1045809315491123"
+                    },
+                    "message": "Everyone's talking about expanding social security, raising caps etc..  one thing I've not heard anyone talk about how raising the minimum wage will be of benefit to the social security trust fund. You're welcome :-)",
+                    "id": "988280761226928_988693231185681",
+                    "created_time": "2016-02-24T02:50:38+0000"
+                },
+                {
+                    "from": {
+                        "name": "Alain Possible",
+                        "id": "10207323758585655"
+                    },
+                    "message": "Bernie there is no half way in a fight. Who is the other? Not everyone knows it was Hillary Clinton!",
+                    "id": "988280761226928_988693267852344",
+                    "created_time": "2016-02-24T02:50:45+0000"
+                },
+                {
+                    "from": {
+                        "name": "Karen Pierce",
+                        "id": "590254411131088"
+                    },
+                    "message": "I am sickened by what's happening in Nevada right now. They interviewed a bunch of people over there and it's UNFREAKINGBELIEVABLE  how stupid people can be. Some of their reasons for voting for Trump were pathetic! If they don't think things in America aren't getting much better than it was when Bush was in the W.H. their blind AND DUMB!! This is very disturbing. WE NEED TO WORK HARDER FOR BERNIE!! We can NOT let this happen!! *very disappointed*",
+                    "id": "988280761226928_988693281185676",
+                    "created_time": "2016-02-24T02:50:46+0000"
+                },
+                {
+                    "from": {
+                        "name": "David Saltzman",
+                        "id": "1751476751751264"
+                    },
+                    "message": "Bernie, end the death penalty",
+                    "id": "988280761226928_988694014518936",
+                    "created_time": "2016-02-24T02:52:33+0000"
+                },
+                {
+                    "from": {
+                        "name": "Philip Walsh",
+                        "id": "575155952643357"
+                    },
+                    "message": "Just some feedback on tonight's Town Hall.  I think a clearer path to Bernie's vision needs to be articulated.  For example; for this revolution to materialize, the revolutionaries need to vote in a sympathetic Congress.  Also, Hilary states that BO took Wall street money;  suggesting he was not beholden to the big banks.  That investment banking and commercial banking operations of the big banks were not separated through legislation, suggests to me an influence of this money.  Possibly he thought the banks were still vulnerable, but now that they are stronger, separate the two.  Thanks for all you do Senator Sanders.  Love the logo with the silhouette of Bernie and the People within the silhouette.  It reminds me that the movement is more than about a person.",
+                    "id": "988280761226928_988694117852259",
+                    "created_time": "2016-02-24T02:52:52+0000"
+                },
+                {
+                    "from": {
+                        "name": "Michael Bownik",
+                        "id": "1055132831216224"
+                    },
+                    "message": "Bernie in your illustrious career as a legislator you co sponsored 3 bills to rename post offices. If elected President do you think you're capable of renaming at least 3 more post offices.",
+                    "id": "988280761226928_988695001185504",
+                    "created_time": "2016-02-24T02:55:56+0000"
+                },
+                {
+                    "from": {
+                        "name": "Bill Bailey",
+                        "id": "10153859036712557"
+                    },
+                    "message": "Hillary is counting on the 'uninformed' to bring her to power. She has a life long career of nothing but lies, scams, greed and corruption. Who in their right mind could feel comfortable voting for such a dishonest individual? I will never understand that. These people are either brainwashed, ignorant or corupt themselves \n\nhttps://www.facebook.com/retainyourfreedom/videos/960834000618301/?pnref=story",
+                    "id": "988280761226928_988695341185470",
+                    "created_time": "2016-02-24T02:57:11+0000"
+                },
+                {
+                    "from": {
+                        "name": "Yatzky Yatzky",
+                        "id": "10205202207684407"
+                    },
+                    "message": "http://killingthebreeze.com/accomplished-people-get-paid-for-speeches/",
+                    "id": "988280761226928_988695517852119",
+                    "created_time": "2016-02-24T02:57:40+0000"
+                },
+                {
+                    "from": {
+                        "name": "James Ward Stork",
+                        "id": "10207408542546285"
+                    },
+                    "message": "It really seems like these question were written by Bill Clinton. She even came with audience props. Defeat the ESTABLISHMENT!",
+                    "id": "988280761226928_988695541185450",
+                    "created_time": "2016-02-24T02:57:46+0000"
+                },
+                {
+                    "from": {
+                        "name": "Fogg Aaro Marion Norman",
+                        "id": "1526724430957859"
+                    },
+                    "message": "Bernie, \n*Lets call Hillary out on not following protocol in mentioning the names of operatives for the CIA abroad in emails.  It is directly stated in the rule book that one should assume this puts US lives at risk.  Talk about poor judgment.  Not to mention her emails also blatently show a complete lack of accountability/proper preemptive judgment to protect the lives of those lost in Benghazi.\n*Also can we call her out on not acknowledging the disparity between earning millions of dollars in speaking fees and that it would take someone earning even $10\\hr half their lifetime to earn $625,000?",
+                    "id": "988280761226928_988695667852104",
+                    "created_time": "2016-02-24T02:58:02+0000"
+                },
+                {
+                    "from": {
+                        "name": "Brendan Finch",
+                        "id": "1215396095157056"
+                    },
+                    "message": "Bernie walks the talk. Power to the people. Bern em Bernie",
+                    "id": "988280761226928_988696631185341",
+                    "created_time": "2016-02-24T02:59:41+0000"
+                },
+                {
+                    "from": {
+                        "name": "Senthil Nathan",
+                        "id": "988445781202963"
+                    },
+                    "message": "Exposing that Hillary Clinton not only lies, but makes up stories:  http://www.politifact.com/truth-o-meter/statements/2008/mar/25/hillary-clinton/video-shows-tarmac-welcome-no-snipers/ This is no doubt an old article, but it is worth reminding everyone that fabricating a lie is so much more than a simple lie!",
+                    "id": "988280761226928_988697394518598",
+                    "created_time": "2016-02-24T03:01:20+0000"
+                },
+                {
+                    "from": {
+                        "name": "Linda Mather",
+                        "id": "1265169000176880"
+                    },
+                    "message": "\ud83c\uddfa\ud83c\uddf8  Go Bernie Go. \ud83c\uddfa\ud83c\uddf8",
+                    "id": "988280761226928_988697524518585",
+                    "created_time": "2016-02-24T03:01:37+0000"
+                },
+                {
+                    "from": {
+                        "name": "Diane Cummings",
+                        "id": "594665160684071"
+                    },
+                    "message": "VOTE BERNIE 2016.NOW",
+                    "id": "988280761226928_988697861185218",
+                    "created_time": "2016-02-24T03:02:27+0000"
+                },
+                {
+                    "from": {
+                        "name": "Kathy Moi",
+                        "id": "10207097817736066"
+                    },
+                    "message": "Judgement is more important. Integrity is more important. And besides, what is it about Bernie Sanders that is not experienced? He's been in government all his adult life. That's enough experience.",
+                    "id": "988280761226928_988698354518502",
+                    "created_time": "2016-02-24T03:04:01+0000"
+                },
+                {
+                    "from": {
+                        "name": "Barry W. Price",
+                        "id": "10206490809493774"
+                    },
+                    "message": "Clinton supporters seem to have short memories. Her vote yes for the Iraq War injured 50,000 American soldiers whilst 7,000 died. WTF SANDERS/WARREN 2016 Dump the neoconservatives, Wall Street, Corporations, Big Banks, and the corrupt Clinton lapdogs.",
+                    "id": "988280761226928_988698901185114",
+                    "created_time": "2016-02-24T03:04:45+0000"
+                },
+                {
+                    "from": {
+                        "name": "Craig Gordon Browning",
+                        "id": "10207062118528992"
+                    },
+                    "message": "https://www.youtube.com/watch?v=7zo-w3XoF5Q",
+                    "id": "988280761226928_988698951185109",
+                    "created_time": "2016-02-24T03:04:49+0000"
+                },
+                {
+                    "from": {
+                        "name": "Denise Santana",
+                        "id": "10208694397503586"
+                    },
+                    "message": "Bernie you touched my heart today, I'm berning brighter because of you, townhall incredible",
+                    "id": "988280761226928_988699041185100",
+                    "created_time": "2016-02-24T03:05:16+0000"
+                },
+                {
+                    "from": {
+                        "name": "Senthil Nathan",
+                        "id": "988445781202963"
+                    },
+                    "message": "If the AA community thinks that Hillary is their girl ... they are in for a rude surprise sooner than later!  Do you need to have \"experience\" to understand that black lives matter.  Really?  All lives matter.",
+                    "id": "988280761226928_988699181185086",
+                    "created_time": "2016-02-24T03:05:50+0000"
+                },
+                {
+                    "from": {
+                        "name": "Craig Gordon Browning",
+                        "id": "10207062118528992"
+                    },
+                    "message": "https://www.youtube.com/watch?v=M3-s72NToTw",
+                    "id": "988280761226928_988699514518386",
+                    "created_time": "2016-02-24T03:07:09+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jose Lora",
+                        "id": "973100446101577"
+                    },
+                    "message": "Bernie sander I just saw you cnn town hall meeting and have to say you did good but you are to nice to Hillary Clinton you should have no comments on her because she will use that against you..and have you notice that she is using everything to get the vote look what she did with those black mothers she is using them...I think you need to stop saying she is a nice person because everything she done is basically against the people",
+                    "id": "988280761226928_988699611185043",
+                    "created_time": "2016-02-24T03:07:20+0000"
+                },
+                {
+                    "from": {
+                        "name": "Yatzky Yatzky",
+                        "id": "10205202207684407"
+                    },
+                    "message": "http://www.bustle.com/articles/143716-spike-lees-wifes-endorsement-for-president-is-every-bit-as-important-to-note-as-her-husbands",
+                    "id": "988280761226928_988699704518367",
+                    "created_time": "2016-02-24T03:07:44+0000"
+                },
+                {
+                    "from": {
+                        "name": "Maurice Clemens",
+                        "id": "923272264446401"
+                    },
+                    "message": "Clinton is another war monger,in the pocket of the War Profiteers.",
+                    "id": "988280761226928_988699714518366",
+                    "created_time": "2016-02-24T03:07:46+0000"
+                },
+                {
+                    "from": {
+                        "name": "Megan Mansfield",
+                        "id": "10206507923961554"
+                    },
+                    "message": "Vote for Bernie: https://grayson.cp.bsd.net/page/signup/graysonprimary",
+                    "id": "988280761226928_988699944518343",
+                    "created_time": "2016-02-24T03:08:25+0000"
+                },
+                {
+                    "from": {
+                        "name": "Aubrey Tinsley",
+                        "id": "1029028667119979"
+                    },
+                    "message": "experience in doing the wrong thing or making the wrong vote in my opinion does not make a good outcome.",
+                    "id": "988280761226928_988700514518286",
+                    "created_time": "2016-02-24T03:10:14+0000"
+                },
+                {
+                    "from": {
+                        "name": "Debbie Ann Van Dusen",
+                        "id": "1686747331567319"
+                    },
+                    "message": "And Bernie is against the death penalty. HRC is for it in cases of heinous crimes. Well how the heck do you pick and choose? What about all the cases where DNA evidence is wrong? All the more reason to choose Bernie.",
+                    "id": "988280761226928_988701457851525",
+                    "created_time": "2016-02-24T03:12:58+0000"
+                },
+                {
+                    "from": {
+                        "name": "Steve Boyett",
+                        "id": "10101833731514447"
+                    },
+                    "message": "So what is your foreign policy proposal for dealing with ISIS or any other difficult issue internationally? Congrats on your 14 year old vote. We get it. You've got 30 years experience in Congress and are really good at voting.",
+                    "id": "988280761226928_988702484518089",
+                    "created_time": "2016-02-24T03:16:08+0000"
+                },
+                {
+                    "from": {
+                        "name": "New Poshyananda",
+                        "id": "768929613250528"
+                    },
+                    "message": "donald trump for president!!!!",
+                    "id": "988280761226928_988703551184649",
+                    "created_time": "2016-02-24T03:20:04+0000"
+                },
+                {
+                    "from": {
+                        "name": "Sandy Lynn",
+                        "id": "10208299702748571"
+                    },
+                    "message": "Chris Cuomo is an awful moderator...just awful.  His bias against Sanders is beyond obvious.",
+                    "id": "988280761226928_988703711184633",
+                    "created_time": "2016-02-24T03:20:34+0000"
+                },
+                {
+                    "from": {
+                        "name": "Melanie Cat",
+                        "id": "10102361910165257"
+                    },
+                    "message": "I love your attitude towards debating. I love the honesty without the cowardly name calling. Factual and concise. Keep it going Bernie.",
+                    "id": "988280761226928_988704031184601",
+                    "created_time": "2016-02-24T03:21:32+0000"
+                },
+                {
+                    "from": {
+                        "name": "David Mook",
+                        "id": "10208958615869124"
+                    },
+                    "message": "Yes, Hillary has experience, but has not learned the lessons of her mistakes and remains much too hawkish - not careful about unintended consequences - for example, her call for an un-enforceable and potentially escalating no-fly zone in Syria. Is she really willing to shoot down a Russian plane that violates the no-fly over Syria? She has tried to  re-write history regarding her own record of poor judgment: voting for the Bush/Cheney Iraq war, and even worse, her role as Secretary of State in helping to create ISIS and advocating for a policy of regime change responsible for much of the chaos in the Middle East.                                                                                                                             She raked in $600,000 for 3 thirty-minute speeches and thinks $15/hr is too much for a worker. This what is wrong in America - millionaires and billionaires think $15/hr is too much. Now, Hillary\u2019s speech-writing spin-doctors face the challenge of writing new speeches carefully calculated not to bite the hand that funds her. On the other hand, Bernie has the courage to lead by example and not accept money from big corporate donors. Bernie is a statesman with the policies, integrity, courage, and prudent judgment we need in the White House!",
+                    "id": "988280761226928_988704047851266",
+                    "created_time": "2016-02-24T03:21:36+0000"
+                },
+                {
+                    "from": {
+                        "name": "Eric Beckson",
+                        "id": "10154661768675550"
+                    },
+                    "message": "Black people don't care if you wanted to keep us out of Iraq.  They will vote for a Christian who never led on gay rights because that's what the black church leaders tell them to do.  In 2008 70% of blacks in CA voted against gay marriage.  So blacks don't care if an agnostic Jew is for free public colleges or better cheaper healthcare or keeping us out of useless wars like Iraq.",
+                    "id": "988280761226928_988704074517930",
+                    "created_time": "2016-02-24T03:21:41+0000"
+                },
+                {
+                    "from": {
+                        "name": "John Brandes",
+                        "id": "10153900427905270"
+                    },
+                    "message": "interestingly, you've got MUCH more experience in so many areas than Hillary, yet somehow our main stream media has people thinking you have no experience...",
+                    "id": "988280761226928_988704214517916",
+                    "created_time": "2016-02-24T03:22:18+0000"
+                },
+                {
+                    "from": {
+                        "name": "Kathleen Andrews",
+                        "id": "234348646904933"
+                    },
+                    "message": "I know I am butting in on a foreign election but ..... \nHas Mrs. Clinton and Mr. Sanders sat down and really talked ?  I am not sure about the legalities of the US election nomination process but can they not, right now, present themselves as the President and VP ticket ticket.  Hillary has the CV and experience.  As VP Bernie can build his CV in foreign policy etc.  He can also be, at her side, to help her stay \"honest\" and keep his important message going.\n\nReal leadership is needed.  Present the case to the electorate for the rest of the nomination process.  Use the primaries as a platform.  Lay out the issues to people so they know exactly what they are voting for.  Pound home to people that after election day to keep an eye on those elected.  Remind people to vote in the mid-term elections. This one-up-manship, tit-for-tat mentally is destroying American democracy and work is not getting done.   \"We the People\" could finally be fulfilled.  \n\ncc  Mrs. Clinton",
+                    "id": "988280761226928_988704271184577",
+                    "created_time": "2016-02-24T03:22:25+0000"
+                },
+                {
+                    "from": {
+                        "name": "Scott Morgan",
+                        "id": "10209019578951312"
+                    },
+                    "message": "https://www.youtube.com/watch?v=FOHPZW4S3Qo&list=TL7L6VpMeIirkyMzAyMjAxNg",
+                    "id": "988280761226928_988704267851244",
+                    "created_time": "2016-02-24T03:22:25+0000"
+                },
+                {
+                    "from": {
+                        "name": "Brian Drummond",
+                        "id": "10204097407234586"
+                    },
+                    "message": "Judgement counts!",
+                    "id": "988280761226928_988705877851083",
+                    "created_time": "2016-02-24T03:25:49+0000"
+                },
+                {
+                    "from": {
+                        "name": "Randy Edwards",
+                        "id": "10208610062192432"
+                    },
+                    "message": "I was absolutely with you on that one!",
+                    "id": "988280761226928_988705904517747",
+                    "created_time": "2016-02-24T03:25:55+0000"
+                },
+                {
+                    "from": {
+                        "name": "William Dewar",
+                        "id": "995475080496284"
+                    },
+                    "message": "you people want to end this endless war Vote Bernie Sanders or we will never get out of hell",
+                    "id": "988280761226928_988706161184388",
+                    "created_time": "2016-02-24T03:26:51+0000"
+                },
+                {
+                    "from": {
+                        "name": "Rick Lerille",
+                        "id": "897871026977288"
+                    },
+                    "message": "Yeah...we know you voted against the war. We know how weak you are. You couldn't get passed two BLM thugs who sat your ass down in the back row and took over your campaign. The only thiong around here that is\" free\" is your bus ride home...lmao",
+                    "id": "988280761226928_988706194517718",
+                    "created_time": "2016-02-24T03:26:55+0000"
+                },
+                {
+                    "from": {
+                        "name": "Jordan Phoenix",
+                        "id": "10102749854805834"
+                    },
+                    "message": "#preach",
+                    "id": "988280761226928_988706527851018",
+                    "created_time": "2016-02-24T03:27:37+0000"
+                },
+                {
+                    "from": {
+                        "name": "Ivan Pena",
+                        "id": "1012441355460873"
+                    },
+                    "message": "That's what I keep saying Bernie. We need a change in the white house. It's time for the Clinton's and the bushes to retire. We need a different path for our kids and first us.",
+                    "id": "988280761226928_988707661184238",
+                    "created_time": "2016-02-24T03:30:37+0000"
+                },
+                {
+                    "from": {
+                        "name": "Mr.",
+                        "id": "182969345171590"
+                    },
+                    "message": "Fellow Bernie Sanders Supporters, please turn out for Bernie Sanders during Super tuesday, if we can get half or more of the states, clinton's momentum will be broken and bernie's will continue to rise!",
+                    "id": "988280761226928_988708041184200",
+                    "created_time": "2016-02-24T03:30:52+0000"
+                },
+                {
+                    "from": {
+                        "name": "Marty Hall",
+                        "id": "10201482211133152"
+                    },
+                    "message": "https://www.youtube.com/watch?v=zlS7MH_Xs8c",
+                    "id": "988280761226928_988708087850862",
+                    "created_time": "2016-02-24T03:30:56+0000"
+                },
+                {
+                    "from": {
+                        "name": "Robin Bellmer",
+                        "id": "10205913032840979"
+                    },
+                    "message": "http://www.sonic.net/~aman/clintons.html    look at how hillary talks about blacks and jews.",
+                    "id": "988280761226928_988708314517506",
+                    "created_time": "2016-02-24T03:31:53+0000"
+                },
+                {
+                    "from": {
+                        "name": "Larc Land",
+                        "id": "10153972746689704"
+                    },
+                    "message": "YOU ADMIRE BILL GATES? You do realize he fully funds GMO's and Monsanto.. pressurizes areas that do not support and try to fight and protect their communities against it... You definitely are not getting my vote.",
+                    "id": "988280761226928_988708517850819",
+                    "created_time": "2016-02-24T03:32:23+0000"
+                },
+                {
+                    "from": {
+                        "name": "Terry Mijoo Facon",
+                        "id": "1572571869727195"
+                    },
+                    "message": "Dick Cheney is the king of foreign policy. He does have tons of experience. I wonder why people call him Darth Vader...",
+                    "id": "988280761226928_988708547850816",
+                    "created_time": "2016-02-24T03:32:27+0000"
+                },
+                {
+                    "from": {
+                        "name": "Ramsey Ellis",
+                        "id": "10208712923686304"
+                    },
+                    "message": "Too bad you voted for a resolution supporting regime change. Hypocrite.",
+                    "id": "988280761226928_988708751184129",
+                    "created_time": "2016-02-24T03:33:10+0000"
+                },
+                {
+                    "from": {
+                        "name": "Mohammad Ali",
+                        "id": "10208407291601582"
+                    },
+                    "message": "It amazed me with the relase of paid speech matter. Once we were raising fund for a community center.The President and the General Secretary were collecting money and checks. When I asked them to contribute-both said if other members do, they will also ....",
+                    "id": "988280761226928_988708801184124",
+                    "created_time": "2016-02-24T03:33:31+0000"
+                },
+                {
+                    "from": {
+                        "name": "Mohammad Ali",
+                        "id": "10208407291601582"
+                    },
+                    "message": "Can we ask the Republicans (as Hillary demanded) to release their transcripts? If they dont.She wont too.",
+                    "id": "988280761226928_988709281184076",
+                    "created_time": "2016-02-24T03:34:47+0000"
+                },
+                {
+                    "from": {
+                        "name": "Blaine Neifeld",
+                        "id": "1248601431852041"
+                    },
+                    "message": "Well the CNN post Townhall Hillary lovefest ad nauseum continues. How 'bout touday's real news revelation: A federal judge on Tuesday ruled that State Department officials and top aides to Hillary Clinton should be questioned under oath about whether they intentionally thwarted federal open records laws by using or allowing the use of a private email server throughout Clinton\u2019s tenure as secretary of state from 2009 to 2013.                                                                                                        Is this an important development on this ongoing Hillary EMail mess? Or is it more important to show video clips from the Colbert Show making a joke of it all. Let's just laugh it off? Do you think if she is the Democratic nominee the Republicans (Trump) will laugh it off? Don't think so. Bernie is the right choice at the right time. It's not even close. is it fair to the people of the United States to choose between Trump or a person that is asked, 6 months into the ongoing campaign: \"Have you ever lied?' And it's a relevant question? Are people going to say: \"well i voted for Hillary because she said she never lied?\" She's been in politics for 25 years and trust is still a concern regarding the person that Obama said was \"Wicked Smart\"? There's nothing to debate here. Bernie's integrity and passion to restore income equality and help the middle class is beyond reproach. Bernie Sanders for president!",
+                    "id": "988280761226928_988709287850742",
+                    "created_time": "2016-02-24T03:34:48+0000"
+                },
+                {
+                    "from": {
+                        "name": "Cindy McKay",
+                        "id": "10205822743667076"
+                    },
+                    "message": "I hate to tell you people but the only thing that will secure a Bernie Sanders nomination is Hillary Clinton being indicted, your god Obama will never let that happen so you may as well kiss old Bernie bye,bye.",
+                    "id": "988280761226928_988709644517373",
+                    "created_time": "2016-02-24T03:36:11+0000"
+                },
+                {
+                    "from": {
+                        "name": "Patti Beaulieu Covino",
+                        "id": "10208910896074967"
+                    },
+                    "message": "Please Vote! Bernie Sanders 2016 \nIf it comes right down to it... in November when we all vote... we can all just write Bernie in!  If you have electronic ballots in your area...then you could write Bernie in through an absentee ballot.     \n\nWe will never have this opportunity again... now is the time for change.  If we all stand together strong and VOTE for Bernie, we'll do this!   We have this wonderful opportunity to make Bernie Sanders our next President.  Bernie is for the people, he's honest, he's been fighting for us for years... now's we have a chance to help him get the job done!!  Don't let this opportunity slip by.  We need change for us!  \n\nLet's get Organize and Help Bernie be out next President! Please know that the Media \"Big Money\" will be trying to discourage Votes for Bernie by saying Anything to try and Discourage people... especially through these next few weeks and with so many different States voting. The Media will be talking Gloom and Doom... because the Establishment wants Bernie out of the way so Hillary can go forward smoothly. *Keep Strong *Bernie can do this and we need to stand strong with him and make this man our next President. Together we can do this! There's Strength in numbers!! Please be sure to make the time to get out and * Vote, Volunteer and share Bernie Sanders message. \n\nHere's a link to help with your State information. \"Click\" the link, enter your zip code on the upper right hand corner and it'll take help you with questions in your area. map.berniesanders.com",
+                    "id": "988280761226928_988712187850452",
+                    "created_time": "2016-02-24T03:37:48+0000"
+                },
+                {
+                    "from": {
+                        "name": "Right Wing",
+                        "id": "193674094330604"
+                    },
+                    "message": "A broken clock is correct twice per day. Means nothing. #CANTSTUMPTRUMP",
+                    "id": "988280761226928_988716044516733",
+                    "created_time": "2016-02-24T03:38:46+0000"
+                },
+                {
+                    "from": {
+                        "name": "Don Shrum",
+                        "id": "10206095001989188"
+                    },
+                    "message": "wonder how much Hillary paid Sandr Blands mother to to be with her",
+                    "id": "988280761226928_988716161183388",
+                    "created_time": "2016-02-24T03:38:58+0000"
+                },
+                {
+                    "from": {
+                        "name": "Mohammad Ali",
+                        "id": "10208407291601582"
+                    },
+                    "message": "I failed to understand whether secretary Clinton answered any question or just eleborated the question. Same if she presented her detal plans to fix the problems or she detailed them little more.",
+                    "id": "988280761226928_988716221183382",
+                    "created_time": "2016-02-24T03:39:15+0000"
+                },
+                {
+                    "from": {
+                        "name": "Rob Fath",
+                        "id": "1652481345017530"
+                    },
+                    "message": "Why was Bernie on first in this Town Hall and also first in the previous one?  Shouldn't who appears first be staggered between the two of them?  Another \"strange\" coincidence.  Whoever is on last always looks better.  And another question: why are African Americans so in favor of Hill and Bill?  Bill sent needed jobs overseas and crippled legitimate welfare during his reign, among other Republicanish deeds.  Well?  I know who would help working people, and it's not the hedge funds and the enormous financial institutions.",
+                    "id": "988280761226928_988716387850032",
+                    "created_time": "2016-02-24T03:39:53+0000"
+                },
+                {
+                    "from": {
+                        "name": "Cynthia Coleman-jackson",
+                        "id": "181883832185469"
+                    },
+                    "message": "CORRECT.  EXPERINCE WITH BAD JUDGEMENT ACCOMPANIED WITH NOT BEING TRUSTED IS THE LAST THING WE NEED IN THE WHITE HOUSE HILLARY! ! !",
+                    "id": "988280761226928_988716407850030",
+                    "created_time": "2016-02-24T03:39:58+0000"
+                },
+                {
+                    "from": {
+                        "name": "Fahad Abdi Mire",
+                        "id": "815177868627962"
+                    },
+                    "message": "i think bush was worst man ever US and the world he destroyed so many countries with out reason, wish to enter the hell.",
+                    "id": "988280761226928_988716777849993",
+                    "created_time": "2016-02-24T03:41:18+0000"
+                },
+                {
+                    "from": {
+                        "name": "Nick Ragodos",
+                        "id": "10153371940501304"
+                    },
+                    "message": "\u270a\ud83c\udffd",
+                    "id": "988280761226928_988717014516636",
+                    "created_time": "2016-02-24T03:42:22+0000"
+                },
+                {
+                    "from": {
+                        "name": "Svetlana Finelt",
+                        "id": "973998962636884"
+                    },
+                    "message": "In reference to tonight's Town Hall, I happen to have over 8 years of post-grad training in psychoanalysis and I was shocked to hear the word coming from the TV. If anyone could use a good psychoanalyst, it is America (not Mr. Trump) but insurance companies have all but obliterated the concept from the national psyche. They pay us $60/hr if they pay at all.  The Father of Our Country died in our infancy.  What America needs NOW is a good Mother and you are the only candidate qualified for that job. Poverty hurts everyday. That's why the nation has an eating disorder and a heroin addiction. People are trying to deaden the pain. Poverty is traumatizing everyday. That's why poor folks are smoking more. It's to relieve stress, and not due to lack of education. Poverty doesn't go away when you win the lottery.  Poverty is a state of mind and will not disappear until someone invests in it. My question to you is, are you hiring? Because I speak from experience.",
+                    "id": "988280761226928_988717354516602",
+                    "created_time": "2016-02-24T03:43:52+0000"
+                },
+                {
+                    "from": {
+                        "name": "Brieanna Watters",
+                        "id": "10205473657702176"
+                    },
+                    "message": "https://youtu.be/Rpm4rjejFgQ",
+                    "id": "988280761226928_988718101183194",
+                    "created_time": "2016-02-24T03:46:06+0000"
+                }
+            ]
+        },
+        "id": "124955570892789_988280761226928",
+        "name": "Timeline Photos"
+    }
+]
