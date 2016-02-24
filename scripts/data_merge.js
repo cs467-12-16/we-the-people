@@ -7,11 +7,13 @@ let files = []
 for (let i = 0; i < 1000; i++) {
   // d13.json is empty, so this is a hacky workaround
   if (i !== 13) {
-    const filename1 = './json/twitter-data/d' + i + '.json'
+    const filename1 = '../json/twitter-data/d' + i + '.json'
     files.push(filename1)
   }
-  const filename2 = './json/twitter-data/t' + i + '.json'
+  const filename2 = '../json/twitter-data/t' + i + '.json'
   files.push(filename2)
+  const filename3 = '../json/twitter-data/c' + i + '.json'
+  files.push(filename3)
 }
 
 function read(file, callback) {
@@ -25,12 +27,12 @@ async.map(files, read, (err, results) => {
   const tweets = R.flatten(results.map(result => result.tweets))
   const tweetsSample = tweets.slice(0, 10)
 
-  writeFile('./json/twitter-data-merged/twitter-data-merged-sample.json', JSON.stringify(tweetsSample), (err) => {
+  writeFile('../json/twitter-data-merged/twitter-data-merged-sample.json', JSON.stringify(tweetsSample), (err) => {
     if (err) throw err
     console.log('sample data successfully merged!')
   })
 
-  writeFile('./json/twitter-data-merged/twitter-data-merged.json', JSON.stringify(tweets), (err) => {
+  writeFile('../json/twitter-data-merged/twitter-data-merged.json', JSON.stringify(tweets), (err) => {
     if (err) throw err
     console.log('data successfully merged!')
   })
