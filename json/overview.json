@@ -1,0 +1,300 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "name": "sanders",
+          "size": 49
+        },
+        {
+          "name": "trump",
+          "size": 23
+        },
+        {
+          "name": "clinton",
+          "size": 34
+        },
+        {
+          "name": "rubio",
+          "size": 0
+        },
+        {
+          "name": "carson",
+          "size": 6
+        },
+        {
+          "name": "kasich",
+          "size": 0
+        },
+        {
+          "name": "cruz",
+          "size": 20
+        },
+        {
+          "name": "bush",
+          "size": 0
+        },
+        {
+          "name": "unknown",
+          "size": 740
+        }
+      ],
+      "name": "tuition",
+      "size": 818
+    },
+    {
+      "children": [
+        {
+          "name": "sanders",
+          "size": 64
+        },
+        {
+          "name": "trump",
+          "size": 722
+        },
+        {
+          "name": "clinton",
+          "size": 80
+        },
+        {
+          "name": "rubio",
+          "size": 522
+        },
+        {
+          "name": "carson",
+          "size": 13
+        },
+        {
+          "name": "kasich",
+          "size": 11
+        },
+        {
+          "name": "cruz",
+          "size": 281
+        },
+        {
+          "name": "bush",
+          "size": 109
+        },
+        {
+          "name": "unknown",
+          "size": 1030
+        }
+      ],
+      "name": "immigration",
+      "size": 2017
+    },
+    {
+      "children": [
+        {
+          "name": "sanders",
+          "size": 72
+        },
+        {
+          "name": "trump",
+          "size": 208
+        },
+        {
+          "name": "clinton",
+          "size": 6
+        },
+        {
+          "name": "rubio",
+          "size": 6
+        },
+        {
+          "name": "carson",
+          "size": 32
+        },
+        {
+          "name": "kasich",
+          "size": 0
+        },
+        {
+          "name": "cruz",
+          "size": 29
+        },
+        {
+          "name": "bush",
+          "size": 49
+        },
+        {
+          "name": "unknown",
+          "size": 624
+        }
+      ],
+      "name": "economy",
+      "size": 892
+    },
+    {
+      "children": [
+        {
+          "name": "sanders",
+          "size": 56
+        },
+        {
+          "name": "trump",
+          "size": 201
+        },
+        {
+          "name": "clinton",
+          "size": 26
+        },
+        {
+          "name": "rubio",
+          "size": 16
+        },
+        {
+          "name": "carson",
+          "size": 0
+        },
+        {
+          "name": "kasich",
+          "size": 10
+        },
+        {
+          "name": "cruz",
+          "size": 61
+        },
+        {
+          "name": "bush",
+          "size": 18
+        },
+        {
+          "name": "unknown",
+          "size": 542
+        }
+      ],
+      "name": "healthcare",
+      "size": 832
+    },
+    {
+      "children": [
+        {
+          "name": "sanders",
+          "size": 68
+        },
+        {
+          "name": "trump",
+          "size": 3
+        },
+        {
+          "name": "clinton",
+          "size": 2
+        },
+        {
+          "name": "rubio",
+          "size": 0
+        },
+        {
+          "name": "carson",
+          "size": 0
+        },
+        {
+          "name": "kasich",
+          "size": 1
+        },
+        {
+          "name": "cruz",
+          "size": 2
+        },
+        {
+          "name": "bush",
+          "size": 0
+        },
+        {
+          "name": "unknown",
+          "size": 2
+        }
+      ],
+      "name": "poverty",
+      "size": 38
+    },
+    {
+      "children": [
+        {
+          "name": "sanders",
+          "size": 155
+        },
+        {
+          "name": "trump",
+          "size": 50
+        },
+        {
+          "name": "clinton",
+          "size": 11
+        },
+        {
+          "name": "rubio",
+          "size": 6
+        },
+        {
+          "name": "carson",
+          "size": 28
+        },
+        {
+          "name": "kasich",
+          "size": 2
+        },
+        {
+          "name": "cruz",
+          "size": 13
+        },
+        {
+          "name": "bush",
+          "size": 1
+        },
+        {
+          "name": "unknown",
+          "size": 17
+        }
+      ],
+      "name": "security",
+      "size": 144
+    },
+    {
+      "children": [
+        {
+          "name": "sanders",
+          "size": 7921
+        },
+        {
+          "name": "trump",
+          "size": 21343
+        },
+        {
+          "name": "clinton",
+          "size": 7996
+        },
+        {
+          "name": "rubio",
+          "size": 4707
+        },
+        {
+          "name": "carson",
+          "size": 717
+        },
+        {
+          "name": "kasich",
+          "size": 837
+        },
+        {
+          "name": "cruz",
+          "size": 6053
+        },
+        {
+          "name": "bush",
+          "size": 2596
+        },
+        {
+          "name": "unknown",
+          "size": 4407
+        }
+      ],
+      "name": "unknown",
+      "size": 33190
+    }
+  ],
+  "name": "all",
+  "size": 0
+}
