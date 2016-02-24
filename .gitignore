@@ -1,0 +1,3 @@
+node_modules
+dist/
+json/twitter-data-merged/twitter-data-merged.json
