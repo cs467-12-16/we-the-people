@@ -82,6 +82,8 @@ for count in range(1000):
                     totals_dict['children'][iindex]['children'][cindex]['size'] += 1
                     if fn == 'donald':
                         trump.append(tweet['text'])
+                        if tweet.get('location') is not None:
+                            trump_locations.append(tweet['location'])
             except ValueError:
                 continue
         if cindex == -1:
@@ -165,3 +167,27 @@ for j in range(len(trump_immigration)):
 
 with open('../json/trump-immigration.json', 'w') as jsonfile:
     json.dump(trump_immigration_dict, jsonfile)
+
+locations = []
+with open('../json/twitter-data-filtered/all-tweets-info.json') as jsonfile:
+    data = json.load(jsonfile)
+    for i in range(len(data)):
+        try:
+            if data[i]['text'].index('immigration') >= 0 and len(data[i]['location']) > 0:
+                locations.append(data[i]['location'])
+        except ValueError:
+            continue
+
+location_totals = {'locations': [], 'location_list': []}
+location_dict = dict()
+for loc in locations:
+    if location_dict.get(loc) is None:
+        location_dict[loc] = 1
+        location_totals['locations'].append(loc)
+        location_totals['location_list'].append({'loc': loc})
+    else:
+        location_dict[loc] += 1
+
+with open('../json/twitter-data-filtered/location-immigration.json', 'w') as jsonfile:
+    location_totals['key-values'] = location_dict
+    json.dump(location_totals, jsonfile)

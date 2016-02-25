@@ -10,5 +10,11 @@ function drawCandidateIssue(candidate, issue) {
         $('.list-group').append('<li class="list-group-item">' + element + "</li>");
       });
     });
+    d3.json('../json/trump-immigration-sentiment.json', function(error, data) {
+      console.log(data);
+      var percentagefromRight = (1 + Math.abs(data.mean)) / 2 * 100;
+      console.log(percentagefromRight);
+      d3.select('#mean').style('right', percentagefromRight + '%');
+    });
   }
 }
