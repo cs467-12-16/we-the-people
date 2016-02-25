@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $('#candidate-issue').css('display', 'none');
+  //$('#candidate-issue').css('display', 'none');
   drawOverview('json/overview.json');
   $('#overall').on('click', function() {
     drawOverview('json/overview.json');
@@ -9,5 +9,8 @@ $(document).ready(function() {
   });
   $('#twitter-overview').on('click', function() {
     drawOverview('json/twitter-data-filtered/totals-tweets.json');
+  });
+  $('#vistitle').on('click', function() {
+    drawOverview('json/overview.json');
   });
 });

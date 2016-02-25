@@ -1,4 +1,13 @@
+#vistitle {
+  cursor: pointer;
+}
+
 svg {
   margin: auto;
   display: block;
+}
+
+.data-elements {
+  height: 500px;
+  overflow: scroll;
 }

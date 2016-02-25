@@ -27,6 +27,10 @@ tweet_totals_dict = initialize_dict()
 facebook_totals_dict = initialize_dict()
 totals_dict = initialize_dict()
 
+trump_immigration_dict = {'elements': [], 'size': 0}
+trump = []
+trump_immigration = []
+
 # Twitter Data Handling
 count = 0
 indices = ['t', 'd', 'c']
@@ -65,6 +69,8 @@ for count in range(1000):
                     cindex = next(index for (index, d) in enumerate(tweet_totals_dict['children'][iindex]['children']) if d['name'] == l)
                     tweet_totals_dict['children'][iindex]['children'][cindex]['size'] += 1
                     totals_dict['children'][iindex]['children'][cindex]['size'] += 1
+                    if l == 'trump':
+                        trump.append(tweet['text'])
             except ValueError:
                 continue
         for f in range(len(candidates_first)):
@@ -74,6 +80,8 @@ for count in range(1000):
                     cindex = next(index for (index, d) in enumerate(tweet_totals_dict['children'][iindex]['children']) if d['name'] == candidates_last[f])
                     tweet_totals_dict['children'][iindex]['children'][cindex]['size'] += 1
                     totals_dict['children'][iindex]['children'][cindex]['size'] += 1
+                    if fn == 'donald':
+                        trump.append(tweet['text'])
             except ValueError:
                 continue
         if cindex == -1:
@@ -111,6 +119,8 @@ for candidate in candidates:
                         cindex = next(index for (index, d) in enumerate(tweet_totals_dict['children'][iindex]['children']) if d['name'] == l)
                         facebook_totals_dict['children'][iindex]['children'][cindex]['size'] += 1
                         totals_dict['children'][iindex]['children'][cindex]['size'] += 1
+                        if l == 'trump':
+                            trump.append(str(comment['message'].encode('ascii', 'ignore')))
                 except ValueError:
                     continue
             for f in range(len(candidates_first)):
@@ -120,6 +130,8 @@ for candidate in candidates:
                         cindex = next(index for (index, d) in enumerate(tweet_totals_dict['children'][iindex]['children']) if d['name'] == candidates_last[f])
                         facebook_totals_dict['children'][iindex]['children'][cindex]['size'] += 1
                         totals_dict['children'][iindex]['children'][cindex]['size'] += 1
+                        if l == 'donald':
+                            trump.append(str(comment['message'].encode('ascii', 'ignore')))
                 except ValueError:
                     continue
             if cindex == -1:
@@ -135,3 +147,21 @@ with open('../json/facebook-data-filtered/totals-comments.json', 'w') as jsonfil
 
 with open('../json/overview.json', 'w') as jsonfile:
     json.dump(totals_dict, jsonfile)
+
+for i in range(len(trump)):
+    try:
+        if trump[i].lower().index('immigration') >= 0:
+            trump_immigration.append(trump[i])
+    except ValueError:
+        continue
+
+for j in range(len(trump_immigration)):
+    if len(trump_immigration_dict['elements']) > 0 and trump_immigration[j] not in trump_immigration_dict['elements']:
+        trump_immigration_dict['elements'].append(trump_immigration[j])
+        trump_immigration_dict['size'] += 1
+    elif len(trump_immigration_dict['elements']) == 0:
+        trump_immigration_dict['elements'].append(trump_immigration[j])
+        trump_immigration_dict['size'] += 1
+
+with open('../json/trump-immigration.json', 'w') as jsonfile:
+    json.dump(trump_immigration_dict, jsonfile)

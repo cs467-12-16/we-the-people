@@ -1,5 +1,7 @@
 //https://bl.ocks.org/mbostock/7607535
 function drawOverview(datafile) {
+  $('#overview').css('display', 'block');
+  $('#candidate-issue').css('display', 'none');
   d3.select('#vis').selectAll('*').remove();
   var margin = 0,
   diameter = 650;
