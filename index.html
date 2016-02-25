@@ -13,6 +13,10 @@
     <h1 align="center" id="vistitle">We the People</h1>
     <div class="row" id="overview">
       <div class="col-md-4">
+        <p>We the People is a visualization that wants to show how many social media posts out of our dataset are related to a certain issue, and also within that subset, how many social media posts are related to a certain candidate as well.</p>
+        <p>How did we get this data? We used the Twitter and Facebook APIs to get comment and tweet data that is public. We have a pre-loaded dataset.</p>
+        <p>So, click on any outer bubble to examine an issue's division of social media posts. Clicking on any candidate within this outer bubble will take you to the Candidate-Issue view.</p>
+        <p>You can also filter the dataset by social media platform below.</p>
         <div class="btn-group" role="group">
           <button id="overall" type="button" class="btn btn-default">Overall</button>
           <button id="facebook-overview" type="button" class="btn btn-default">Facebook</button>
@@ -29,9 +33,10 @@
     <div class="row" id="candidate-issue">
       <h4 align="center">Candidate Issue View for <span id="candidate-zoom"></span> Regarding <span id="issue-zoom"></span></h4>
       <div class="col-md-4">
-        <h6>Unique Tweets / Comments Regarding This Topic (scroll to see all)</h6>
+        <h5>Unique Tweets / Comments Regarding This Topic (scroll to see all)</h5>
+        <p>This is a sentiment meter showing the average sentiment on a negativity to positivity scale.</p>
+        <div id="sentiment"><div id="mean"></div></div>
         <div class="data-elements">
-          <div id="sentiment"><div id="mean"></div></div>
           <ul class="list-group"></ul>
         </div>
       </div>
