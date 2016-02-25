@@ -2,7 +2,7 @@
 function drawOverview(datafile) {
   d3.select('#vis').selectAll('*').remove();
   var margin = 0,
-  diameter = 500;
+  diameter = 650;
 
   function color(depth, d) {
     if (depth === 0) {
@@ -41,9 +41,18 @@ function drawOverview(datafile) {
     var circle = svg.selectAll('circle')
     .data(nodes)
     .enter().append('circle')
-    .attr('class', function(d) { return d.parent ? d.children ? 'node' : 'node node--leaf' : 'node node--root'; })
+    .attr('class', function(d) { return d.parent ? 'node' : 'node node--root'; })
     .style('fill', function(d) { return color(d.depth, d); })
-    .on('click', function(d) { if (focus !== d) { zoom(d); } d3.event.stopPropagation(); });
+    .on('click', function(d) {
+      if (focus !== d && d.depth === 1) {
+        d3.select('#curr-issue').text(d.name);
+        d3.select('#curr-issue-size').text(d.size);
+        zoom(d);
+      } else if (d.depth == 2) {
+        drawCandidateIssue(d.name, d.parent.name);
+      }
+      d3.event.stopPropagation();
+    });
 
     var text = svg.selectAll('text')
     .data(nodes)
@@ -51,13 +60,21 @@ function drawOverview(datafile) {
     .attr('class', 'label')
     .style('fill-opacity', function(d) { return d.parent === root ? 1 : 0; })
     .style('display', function(d) { return d.parent === root ? 'inline' : 'none'; })
-    .text(function(d) { return d.name; })
-    .on('click', function(d) { console.log('clicked! ' + d.name); });
+    .text(function(d) { if (d.depth == 2) { return d.name + ': ' + d.size; } else { return d.name; }});
 
     var node = svg.selectAll('circle,text');
 
-    d3.select('body')
-    .on('click', function() { zoom(root); });
+    d3.select('body').on('click', function() { zoom(root); });
+
+    if (datafile.indexOf('overview') >= 0) {
+      d3.select('#tweet-or-comment').text('Facebook Comments and Tweets');
+    } else if (datafile.indexOf('facebook') >= 0) {
+      d3.select('#tweet-or-comment').text('Facebook Comments');
+    } else if (datafile.indexOf('twitter') >= 0) {
+      d3.select('#tweet-or-comment').text('Tweets');
+    }
+
+    d3.select('#total-number').text(root.size);
 
     zoomTo([root.x, root.y, root.r * 2 + margin]);
 
@@ -84,6 +101,5 @@ function drawOverview(datafile) {
       circle.attr('r', function(d) { return d.r * k; });
     }
   });
-
-  d3.select(self.frameElement).style('height', diameter + 'px');
+  d3.select(self.frameElement).style('height','100%');
 }

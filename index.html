@@ -11,16 +11,27 @@
 <body>
   <div class="col-md-10 col-sm-offset-1">
     <h1 align="center">We the People</h1>
-    <div class="row">
-      <div class="col-md-6">
+    <div class="row" id="overview">
+      <div class="col-md-4">
         <div class="btn-group" role="group">
           <button id="overall" type="button" class="btn btn-default">Overall</button>
           <button id="facebook-overview" type="button" class="btn btn-default">Facebook</button>
           <button id="twitter-overview" type="button" class="btn btn-default">Twitter</button>
         </div>
+        <div>Total Number of <span id="tweet-or-comment"></span>: <span id="total-number"></span></div>
+        <div>Current Issue Selected: <span id="curr-issue"></span></div>
+        <div>Number of Elements with this Issue: <span id="curr-issue-size"></span></div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-8">
         <svg id="vis"></svg>
+      </div>
+    </div>
+    <div class="row" id="candidate-issue">
+      <div class="col-md-4">
+        <h1>Hi</h1>
+      </div>
+      <div class="col-md-8">
+        <svg id="vis2"></svg>
       </div>
     </div>
   </div>
@@ -28,6 +39,7 @@
   <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script type="text/javascript" src="frontend/js/candidate-issue.js"></script>
   <script type="text/javascript" src="frontend/js/overview.js"></script>
   <script type="text/javascript" src="frontend/js/script.js"></script>
 </body>

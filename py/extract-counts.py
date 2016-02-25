@@ -12,14 +12,14 @@ def initialize_dict():
         for candidate in candidates_last:
             candidate_obj = {'name': candidate, 'size': 0}
             issue_obj['children'].append(candidate_obj)
-        issue_obj['children'].append({ 'name': 'unknown', 'size': 0 })
+        issue_obj['children'].append({'name': 'unknown', 'size': 0, 'children': []})
         dictionary['children'].append(issue_obj)
 
     unknown_issue_obj = {'name': 'unknown', 'size': 0, 'children': []}
     for candidate in candidates_last:
         candidate_obj = {'name': candidate, 'size': 0}
         unknown_issue_obj['children'].append(candidate_obj)
-    unknown_issue_obj['children'].append({ 'name': 'unknown', 'size': 0 })
+    unknown_issue_obj['children'].append({'name': 'unknown', 'size': 0, 'children': []})
     dictionary['children'].append(unknown_issue_obj)
     return dictionary
 
@@ -43,6 +43,7 @@ for count in range(1000):
     for t in range(len(data)):
         tweet = data[t]
         tweet_totals_dict['size'] += 1
+        totals_dict['size'] += 1
         text = tweet['text'].lower()
         iindex = -1
         cindex = -1
@@ -90,6 +91,8 @@ for candidate in candidates:
             text = str(comment['message'].encode('ascii', 'ignore')).lower()
             iindex = -1
             cindex = -1
+            facebook_totals_dict['size'] += 1
+            totals_dict['size'] += 1
             for i in issues:
                 try:
                     if text.index(i) >= 0:
