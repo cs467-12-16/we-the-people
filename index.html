@@ -10,7 +10,7 @@
 </head>
 <body>
   <div class="col-md-10 col-sm-offset-1">
-    <h1 align="center">We the People</h1>
+    <h1 align="center" id="vistitle">We the People</h1>
     <div class="row" id="overview">
       <div class="col-md-4">
         <div class="btn-group" role="group">
@@ -27,8 +27,12 @@
       </div>
     </div>
     <div class="row" id="candidate-issue">
+      <h4 align="center">Candidate Issue View for <span id="candidate-zoom"></span> Regarding <span id="issue-zoom"></span></h4>
       <div class="col-md-4">
-        <h1>Hi</h1>
+        <h6>Unique Tweets / Comments Regarding This Topic (scroll to see all)</h6>
+        <div class="data-elements">
+          <ul class="list-group"></ul>
+        </div>
       </div>
       <div class="col-md-8">
         <svg id="vis2"></svg>
