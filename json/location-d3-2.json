@@ -1,0 +1,30 @@
+[
+  {
+    "bin": "northeast",
+    "size": 32
+  },
+  {
+    "bin": "midwest",
+    "size": 14
+  },
+  {
+    "bin": "west",
+    "size": 21
+  },
+  {
+    "bin": "southwest",
+    "size": 6
+  },
+  {
+    "bin": "southeast",
+    "size": 23
+  },
+  {
+    "bin": "international",
+    "size": 15
+  },
+  {
+    "bin": "other",
+    "size": 41
+  }
+]
